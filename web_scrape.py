@@ -1,4 +1,5 @@
 import time
+import logging
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import pandas as pd
@@ -8,23 +9,12 @@ def get_link(driver, base_url, country, round, year):
     """Create full URL including relevant details and return beautifulsoup object"""
 
     # a country's league
-    full_url = (
-        base_url
-        + country
-        + "/resultados/fms-"
-        + country
-        + "-"
-        + year
-        + "/fms-"
-        + country
-        + "-"
-        + year
-        + "-jornada-"
-        + round
-    )
+
+
+    full_url = f"{base_url}{country}/resultados/fms-{country}-{year}/fms-{country}-{year}-jornada-{round}"
     driver.get(full_url)
     time.sleep(2)
-    print(full_url)
+    logging.info(full_url)
     return BeautifulSoup(driver.page_source, "html.parser")
 
 
@@ -39,7 +29,7 @@ def get_data(soup, country, year, jornada, results_of_battles):
     date_of_round, location = date_of_round.split(
         "  "
     )  # 2 spaces between date and location
-    print(date_of_round)
+    logging.info('Date of round: %(date_of_round)s')
 
     table_of_results = soup.find("table", id="tabla_participantes")
 
@@ -106,6 +96,12 @@ def get_data(soup, country, year, jornada, results_of_battles):
 
 def main():
 
+    # Set up logging
+    logging_level = logging.INFO
+    logging_format = '[%(levelname)s] %(message)s'
+    logging.basicConfig(level=logging_level, format=logging_format)
+
+    # Set up the web driver
     options = webdriver.ChromeOptions()
     options.add_argument("headless")
     driver = webdriver.Chrome(options=options)
@@ -113,32 +109,23 @@ def main():
     # Example URL: https://freestyleros.com/fms-peru/resultados/fms-peru-2020-2021/fms-peru-2020-2021-jornada-1
     BASE_URL = "https://freestyleros.com/fms-"
 
-    COUNTRIES = [
-        "argentina", 
-        "chile", 
-        "espana", 
-        "mexico", 
-        "peru", 
-        "caribe", 
-        "colombia"
-    ]
+    COUNTRIES = ["argentina", "chile", "espana", "mexico", "peru", "caribe", "colombia"]
 
     YEARS = [
         "2017-2018",
         "2018-2019",
         "2019-2020",
         "2020-2021",
-        "2021-2023", # Not a mistake, was over 2 years due to COVID
+        "2021-2023",  # Not a mistake, was over 2 years due to COVID
         "2024-2025",
     ]
-
 
     results_of_battles = []
 
     for country in COUNTRIES:
         for year in YEARS:
             for jornada in range(1, 15):
-                print("Testing for", country, year, jornada)
+                logging.info('Testing for %s %s round %s' % (country,year,jornada))
                 time.sleep(2)
                 soup = get_link(driver, BASE_URL, country, str(jornada), year)
                 if soup.find("table", id="tabla_participantes"):  # Not 404
@@ -147,16 +134,17 @@ def main():
                     )
 
                 else:
-                    print("No data for", country, year, jornada)
+                    logging.debug('No data for %s %s round %s' % (country,year,jornada))
                     # Something is wrong (like too many rounds)
                     break
 
-                print(f"Got data for {country} {year} round {jornada}")
-                print(results_of_battles[-1])
+                logging.info('Got data for %s %s round %s' % (country,year,jornada))
+                logging.debug(results_of_battles[-1])
 
     # Convert all battles to a DataFrame
     all_battles_df = pd.DataFrame(results_of_battles)
 
+    # Save to CSV, different encoding due to accented characters
     all_battles_df.to_csv("rap_battles2.csv", encoding="iso-8859-1", index=False)
 
 
