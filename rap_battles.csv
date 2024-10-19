@@ -1,0 +1,1036 @@
+winner,loser,replica,exhibition,draw,location,league,round,year,date,date
+Blon,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2017-2018,"Domingo, 30 de Abril de 2017",30/04/2017
+Zasko,Arkano,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2017-2018,"Domingo, 30 de Abril de 2017",30/04/2017
+Skone,BTA,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2017-2018,"Domingo, 30 de Abril de 2017",30/04/2017
+Chuty,Errecé,1 RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2017-2018,"Domingo, 30 de Abril de 2017",30/04/2017
+Hander,Invert,1 RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2017-2018,"Domingo, 30 de Abril de 2017",30/04/2017
+Chuty,BTA,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2017-2018,"Sábado, 03 de Junio de 2017",03/06/2017
+Mr Ego,Errecé,1 RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2017-2018,"Sábado, 03 de Junio de 2017",03/06/2017
+Arkano,Skone,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2017-2018,"Sábado, 03 de Junio de 2017",03/06/2017
+Zasko,Hander,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2017-2018,"Sábado, 03 de Junio de 2017",03/06/2017
+Invert,Blon,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2017-2018,"Sábado, 03 de Junio de 2017",03/06/2017
+Chuty,Arkano,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,3,2017-2018,"Sábado, 24 de Junio de 2017",24/06/2017
+BTA,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,3,2017-2018,"Sábado, 24 de Junio de 2017",24/06/2017
+Blon,Zasko,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,3,2017-2018,"Sábado, 24 de Junio de 2017",24/06/2017
+Errecé,Invert,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,3,2017-2018,"Sábado, 24 de Junio de 2017",24/06/2017
+Skone,Hander,1 RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,3,2017-2018,"Sábado, 24 de Junio de 2017",24/06/2017
+Errecé,Hander,2 RÉPLICAS,FALSE,FALSE,"Granada, España",FMS Espana,4,2017-2018,"Viernes, 27 de Octubre de 2017",27/10/2017
+Skone,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,4,2017-2018,"Viernes, 27 de Octubre de 2017",27/10/2017
+Invert,Arkano,1 RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,4,2017-2018,"Viernes, 27 de Octubre de 2017",27/10/2017
+Chuty,Zasko,SIN RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,4,2017-2018,"Viernes, 27 de Octubre de 2017",27/10/2017
+Blon,BTA,2 RÉPLICAS,FALSE,FALSE,"Granada, España",FMS Espana,4,2017-2018,"Viernes, 27 de Octubre de 2017",27/10/2017
+Arkano,Hander,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2017-2018,"Sábado, 18 de Noviembre de 2017",18/11/2017
+Skone,Invert,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2017-2018,"Sábado, 18 de Noviembre de 2017",18/11/2017
+Chuty,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2017-2018,"Sábado, 18 de Noviembre de 2017",18/11/2017
+Errecé,Blon,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2017-2018,"Sábado, 18 de Noviembre de 2017",18/11/2017
+Walls,Force,EXHIBICIÓN,TRUE,FALSE,"Bilbao, España",FMS Espana,5,2017-2018,"Sábado, 18 de Noviembre de 2017",18/11/2017
+Zasko,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Mallorca, España",FMS Espana,6,2017-2018,"Viernes, 24 de Noviembre de 2017",24/11/2017
+Arkano,Errecé,SIN RÉPLICA,FALSE,FALSE,"Mallorca, España",FMS Espana,6,2017-2018,"Viernes, 24 de Noviembre de 2017",24/11/2017
+BTA,Hander,SIN RÉPLICA,FALSE,FALSE,"Mallorca, España",FMS Espana,6,2017-2018,"Viernes, 24 de Noviembre de 2017",24/11/2017
+Chuty,Invert,SIN RÉPLICA,FALSE,FALSE,"Mallorca, España",FMS Espana,6,2017-2018,"Viernes, 24 de Noviembre de 2017",24/11/2017
+Blon,Skone,DEFAULT,FALSE,FALSE,"Mallorca, España",FMS Espana,6,2017-2018,"Viernes, 24 de Noviembre de 2017",24/11/2017
+Errecé,Zasko,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,7,2017-2018,"Sábado, 09 de Diciembre de 2017",09/12/2017
+BTA,Invert,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,7,2017-2018,"Sábado, 09 de Diciembre de 2017",09/12/2017
+Hander,Blon,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,7,2017-2018,"Sábado, 09 de Diciembre de 2017",09/12/2017
+Mr Ego,Arkano,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,7,2017-2018,"Sábado, 09 de Diciembre de 2017",09/12/2017
+Chuty,Skone,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,7,2017-2018,"Sábado, 09 de Diciembre de 2017",09/12/2017
+Arkano,BTA,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2017-2018,"Viernes, 29 de Diciembre de 2017",29/12/2017
+Chuty,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2017-2018,"Viernes, 29 de Diciembre de 2017",29/12/2017
+Hander,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2017-2018,"Viernes, 29 de Diciembre de 2017",29/12/2017
+Invert,Zasko,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2017-2018,"Viernes, 29 de Diciembre de 2017",29/12/2017
+Skone,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2017-2018,"Viernes, 29 de Diciembre de 2017",29/12/2017
+Hander,Zasko,2 RÉPLICAS,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2018-2019,"Sábado, 05 de Mayo de 2018",05/05/2018
+Errecé,Arkano,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2018-2019,"Sábado, 05 de Mayo de 2018",05/05/2018
+Skone,Walls,1 RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2018-2019,"Sábado, 05 de Mayo de 2018",05/05/2018
+Blon,BTA,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2018-2019,"Sábado, 05 de Mayo de 2018",05/05/2018
+Chuty,Force,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,1,2018-2019,"Sábado, 05 de Mayo de 2018",05/05/2018
+Cacha,Stuart,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,1,2018-2019,"Sábado, 26 de Mayo de 2018",26/05/2018
+Dtoke,Dani,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,1,2018-2019,"Sábado, 26 de Mayo de 2018",26/05/2018
+Wos,MKS,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,1,2018-2019,"Sábado, 26 de Mayo de 2018",26/05/2018
+Replik,Klan,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,1,2018-2019,"Sábado, 26 de Mayo de 2018",26/05/2018
+Papo,Trueno,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,1,2018-2019,"Sábado, 26 de Mayo de 2018",26/05/2018
+Zasko,Force,1 RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2018-2019,"Domingo, 10 de Junio de 2018",10/06/2018
+Walls,Arkano,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2018-2019,"Domingo, 10 de Junio de 2018",10/06/2018
+Blon,Errecé,1 RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2018-2019,"Domingo, 10 de Junio de 2018",10/06/2018
+BTA,Skone,2 RÉPLICAS,FALSE,FALSE,"Alicante, España",FMS Espana,2,2018-2019,"Domingo, 10 de Junio de 2018",10/06/2018
+Chuty,Hander,SIN RÉPLICA,FALSE,FALSE,"Alicante, España",FMS Espana,2,2018-2019,"Domingo, 10 de Junio de 2018",10/06/2018
+Replik,Trueno,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,2,2018-2019,"Sábado, 23 de Junio de 2018",23/06/2018
+Wos,Dtoke,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,2,2018-2019,"Sábado, 23 de Junio de 2018",23/06/2018
+Klan,Cacha,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,2,2018-2019,"Sábado, 23 de Junio de 2018",23/06/2018
+MKS,Stuart,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,2,2018-2019,"Sábado, 23 de Junio de 2018",23/06/2018
+Papo,Dani,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,2,2018-2019,"Sábado, 23 de Junio de 2018",23/06/2018
+Dtoke,MKS,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,3,2018-2019,"Domingo, 08 de Julio de 2018",08/07/2018
+Papo,Klan,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,3,2018-2019,"Domingo, 08 de Julio de 2018",08/07/2018
+Dani,Cacha,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,3,2018-2019,"Domingo, 08 de Julio de 2018",08/07/2018
+Replik,Wos,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,3,2018-2019,"Domingo, 08 de Julio de 2018",08/07/2018
+Nacho,Tuqu,EXHIBICIÓN,TRUE,FALSE,"Buenos Aires, Argentina",FMS Argentina,3,2018-2019,"Domingo, 08 de Julio de 2018",08/07/2018
+Arkano,BTA,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,3,2018-2019,"Sábado, 04 de Agosto de 2018",04/08/2018
+Chuty,Zasko,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,3,2018-2019,"Sábado, 04 de Agosto de 2018",04/08/2018
+Force,Hander,2 RÉPLICAS,FALSE,FALSE,"Nigrán, España",FMS Espana,3,2018-2019,"Sábado, 04 de Agosto de 2018",04/08/2018
+Walls,Blon,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,3,2018-2019,"Sábado, 04 de Agosto de 2018",04/08/2018
+Skone,Errecé,1 RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,3,2018-2019,"Sábado, 04 de Agosto de 2018",04/08/2018
+Dani,Replik,1 RÉPLICA,FALSE,FALSE,"Salta, Argentina",FMS Argentina,4,2018-2019,"Domingo, 02 de Septiembre de 2018",02/09/2018
+Cacha,Dtoke,1 RÉPLICA,FALSE,FALSE,"Salta, Argentina",FMS Argentina,4,2018-2019,"Domingo, 02 de Septiembre de 2018",02/09/2018
+Papo,MKS,SIN RÉPLICA,FALSE,FALSE,"Salta, Argentina",FMS Argentina,4,2018-2019,"Domingo, 02 de Septiembre de 2018",02/09/2018
+Stuart,Klan,SIN RÉPLICA,FALSE,FALSE,"Salta, Argentina",FMS Argentina,4,2018-2019,"Domingo, 02 de Septiembre de 2018",02/09/2018
+Wos,Trueno,SIN RÉPLICA,FALSE,FALSE,"Salta, Argentina",FMS Argentina,4,2018-2019,"Domingo, 02 de Septiembre de 2018",02/09/2018
+Arkano,Zasko,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,4,2018-2019,"Sábado, 15 de Septiembre de 2018",15/09/2018
+BTA,Walls,1 RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,4,2018-2019,"Sábado, 15 de Septiembre de 2018",15/09/2018
+Blon,Hander,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,4,2018-2019,"Sábado, 15 de Septiembre de 2018",15/09/2018
+Errecé,Force,2 RÉPLICAS,FALSE,FALSE,"Murcia, España",FMS Espana,4,2018-2019,"Sábado, 15 de Septiembre de 2018",15/09/2018
+Chuty,Skone,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,4,2018-2019,"Sábado, 15 de Septiembre de 2018",15/09/2018
+Papo,Cacha,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,5,2018-2019,"Sábado, 06 de Octubre de 2018",06/10/2018
+Trueno,Dtoke,1 RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,5,2018-2019,"Sábado, 06 de Octubre de 2018",06/10/2018
+Wos,Stuart,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,5,2018-2019,"Sábado, 06 de Octubre de 2018",06/10/2018
+MKS,Replik,1 RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,5,2018-2019,"Sábado, 06 de Octubre de 2018",06/10/2018
+Klan,Dani,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,5,2018-2019,"Sábado, 06 de Octubre de 2018",06/10/2018
+Errecé,BTA,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2018-2019,"Sábado, 03 de Noviembre de 2018",03/11/2018
+Walls,Force,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2018-2019,"Sábado, 03 de Noviembre de 2018",03/11/2018
+Zasko,Skone,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2018-2019,"Sábado, 03 de Noviembre de 2018",03/11/2018
+Blon,Chuty,1 RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2018-2019,"Sábado, 03 de Noviembre de 2018",03/11/2018
+Arkano,Hander,1 RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,5,2018-2019,"Sábado, 03 de Noviembre de 2018",03/11/2018
+Stuart,Replik,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,6,2018-2019,"Lunes, 05 de Noviembre de 2018",05/11/2018
+MKS,Dani,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,6,2018-2019,"Lunes, 05 de Noviembre de 2018",05/11/2018
+Klan,Trueno,2 RÉPLICAS,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,6,2018-2019,"Lunes, 05 de Noviembre de 2018",05/11/2018
+Wos,Cacha,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,6,2018-2019,"Lunes, 05 de Noviembre de 2018",05/11/2018
+Stuart,Dtoke,1 RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,7,2018-2019,"Lunes, 19 de Noviembre de 2018",19/11/2018
+Trueno,Cacha,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,7,2018-2019,"Lunes, 19 de Noviembre de 2018",19/11/2018
+Wos,Dani,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,7,2018-2019,"Lunes, 19 de Noviembre de 2018",19/11/2018
+MKS,Klan,1 RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,7,2018-2019,"Lunes, 19 de Noviembre de 2018",19/11/2018
+Replik,Papo,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,7,2018-2019,"Lunes, 19 de Noviembre de 2018",19/11/2018
+Arkano,Blon,1 RÉPLICA,FALSE,FALSE,"Cádiz, España",FMS Espana,6,2018-2019,"Sábado, 24 de Noviembre de 2018",24/11/2018
+Skone,Force,SIN RÉPLICA,FALSE,FALSE,"Cádiz, España",FMS Espana,6,2018-2019,"Sábado, 24 de Noviembre de 2018",24/11/2018
+Zasko,Errecé,SIN RÉPLICA,FALSE,FALSE,"Cádiz, España",FMS Espana,6,2018-2019,"Sábado, 24 de Noviembre de 2018",24/11/2018
+Chuty,BTA,SIN RÉPLICA,FALSE,FALSE,"Cádiz, España",FMS Espana,6,2018-2019,"Sábado, 24 de Noviembre de 2018",24/11/2018
+Walls,Hander,SIN RÉPLICA,FALSE,FALSE,"Cádiz, España",FMS Espana,6,2018-2019,"Sábado, 24 de Noviembre de 2018",24/11/2018
+Wos,Klan,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,8,2018-2019,"Domingo, 02 de Diciembre de 2018",02/12/2018
+Dtoke,Replik,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,8,2018-2019,"Domingo, 02 de Diciembre de 2018",02/12/2018
+Dani,Trueno,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,8,2018-2019,"Domingo, 02 de Diciembre de 2018",02/12/2018
+Stuart,Dozer,EXHIBICIÓN,TRUE,TRUE,"La Plata, Argentina",FMS Argentina,8,2018-2019,"Domingo, 02 de Diciembre de 2018",02/12/2018
+MKS,Cacha,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,8,2018-2019,"Domingo, 02 de Diciembre de 2018",02/12/2018
+Wos,Papo,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Cacha,Replik,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+MKS,Trueno,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Dani,Stuart,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Dtoke,Klan,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Skone,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Arkano,Force,3 RÉPLICAS,FALSE,FALSE,"Madrid, España",FMS Espana,7,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Zasko,BTA,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Hander,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Chuty,Walls,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2018-2019,"Sábado, 29 de Diciembre de 2018",29/12/2018
+Skone,Arkano,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,8,2018-2019,"Sábado, 19 de Enero de 2019",19/01/2019
+Chuty,Errecé,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,8,2018-2019,"Sábado, 19 de Enero de 2019",19/01/2019
+BTA,Hander,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,8,2018-2019,"Sábado, 19 de Enero de 2019",19/01/2019
+Force,Blon,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,8,2018-2019,"Sábado, 19 de Enero de 2019",19/01/2019
+Walls,Zasko,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,8,2018-2019,"Sábado, 19 de Enero de 2019",19/01/2019
+Errecé,Walls,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+Chuty,Arkano,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+BTA,Force,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+Blon,Zasko,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+Skone,Hander,2 RÉPLICAS,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+Force,Santi,PLAYOFFS,FALSE,FALSE,"Valencia, España",FMS Espana,9,2018-2019,"Sábado, 16 de Febrero de 2019",16/02/2019
+Teorema,Drose,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2019-2020,"Domingo, 07 de Abril de 2019",07/04/2019
+Nitro,Pepe Grillo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2019-2020,"Domingo, 07 de Abril de 2019",07/04/2019
+Acertijo,Ricto,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2019-2020,"Domingo, 07 de Abril de 2019",07/04/2019
+Stigma,Kaiser,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2019-2020,"Domingo, 07 de Abril de 2019",07/04/2019
+El Menor,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2019-2020,"Domingo, 07 de Abril de 2019",07/04/2019
+Cacha,Replik,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,1,2019-2020,"Domingo, 14 de Abril de 2019",14/04/2019
+Klan,Nacho,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,1,2019-2020,"Domingo, 14 de Abril de 2019",14/04/2019
+MKS,Stuart,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,1,2019-2020,"Domingo, 14 de Abril de 2019",14/04/2019
+SUB,Trueno,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,1,2019-2020,"Domingo, 14 de Abril de 2019",14/04/2019
+Dtoke,Papo,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,1,2019-2020,"Domingo, 14 de Abril de 2019",14/04/2019
+Jack Adrenalina,McKlopedia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2019-2020,"Sábado, 20 de Abril de 2019",20/04/2019
+Lobo Estepario,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2019-2020,"Sábado, 20 de Abril de 2019",20/04/2019
+Aczino,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2019-2020,"Sábado, 20 de Abril de 2019",20/04/2019
+Zticma,RC,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2019-2020,"Sábado, 20 de Abril de 2019",20/04/2019
+Rapder,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2019-2020,"Sábado, 20 de Abril de 2019",20/04/2019
+Bnet,Force,SIN RÉPLICA,FALSE,FALSE,"Pamplona, España",FMS Espana,1,2019-2020,"Sábado, 27 de Abril de 2019",27/04/2019
+Zasko,Walls,2 RÉPLICAS,FALSE,FALSE,"Pamplona, España",FMS Espana,1,2019-2020,"Sábado, 27 de Abril de 2019",27/04/2019
+Chuty,BTA,SIN RÉPLICA,FALSE,FALSE,"Pamplona, España",FMS Espana,1,2019-2020,"Sábado, 27 de Abril de 2019",27/04/2019
+Skone,Mr Ego,1 RÉPLICA,FALSE,FALSE,"Pamplona, España",FMS Espana,1,2019-2020,"Sábado, 27 de Abril de 2019",27/04/2019
+Errecé,Blon,1 RÉPLICA,FALSE,FALSE,"Pamplona, España",FMS Espana,1,2019-2020,"Sábado, 27 de Abril de 2019",27/04/2019
+Ricto,Kaiser,2 RÉPLICAS,FALSE,FALSE,"Concepción, Chile",FMS Chile,2,2019-2020,"Domingo, 05 de Mayo de 2019",05/05/2019
+Pepe Grillo,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,2,2019-2020,"Domingo, 05 de Mayo de 2019",05/05/2019
+Acertijo,Drose,2 RÉPLICAS,FALSE,FALSE,"Concepción, Chile",FMS Chile,2,2019-2020,"Domingo, 05 de Mayo de 2019",05/05/2019
+Teorema,El Menor,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,2,2019-2020,"Domingo, 05 de Mayo de 2019",05/05/2019
+Nitro,Stigma,1 RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,2,2019-2020,"Domingo, 05 de Mayo de 2019",05/05/2019
+Klan,Replik,1 RÉPLICA,FALSE,FALSE,"Santa Fe, Argentina",FMS Argentina,2,2019-2020,"Sábado, 11 de Mayo de 2019",11/05/2019
+Stuart,Cacha,2 RÉPLICAS,FALSE,FALSE,"Santa Fe, Argentina",FMS Argentina,2,2019-2020,"Sábado, 11 de Mayo de 2019",11/05/2019
+SUB,MKS,1 RÉPLICA,FALSE,FALSE,"Santa Fe, Argentina",FMS Argentina,2,2019-2020,"Sábado, 11 de Mayo de 2019",11/05/2019
+Dtoke,Trueno,1 RÉPLICA,FALSE,FALSE,"Santa Fe, Argentina",FMS Argentina,2,2019-2020,"Sábado, 11 de Mayo de 2019",11/05/2019
+Nacho,Zaina,EXHIBICIÓN,TRUE,TRUE,"Santa Fe, Argentina",FMS Argentina,2,2019-2020,"Sábado, 11 de Mayo de 2019",11/05/2019
+Chuty,Walls,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,2,2019-2020,"Sábado, 08 de Junio de 2019",08/06/2019
+Skone,BTA,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,2,2019-2020,"Sábado, 08 de Junio de 2019",08/06/2019
+Errecé,Zasko,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,2,2019-2020,"Sábado, 08 de Junio de 2019",08/06/2019
+Bnet,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,2,2019-2020,"Sábado, 08 de Junio de 2019",08/06/2019
+Blon,Force,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,2,2019-2020,"Sábado, 08 de Junio de 2019",08/06/2019
+RC,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,2,2019-2020,"Domingo, 16 de Junio de 2019",16/06/2019
+Jony Beltrán,Zticma,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,2,2019-2020,"Domingo, 16 de Junio de 2019",16/06/2019
+Rapder,McKlopedia,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,2,2019-2020,"Domingo, 16 de Junio de 2019",16/06/2019
+Aczino,Lobo Estepario,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,2,2019-2020,"Domingo, 16 de Junio de 2019",16/06/2019
+Yoiker,Potencia,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,2,2019-2020,"Domingo, 16 de Junio de 2019",16/06/2019
+Dtoke,SUB,SIN RÉPLICA,FALSE,FALSE,"Tucuman, Argentina",FMS Argentina,3,2019-2020,"Sábado, 22 de Junio de 2019",22/06/2019
+Papo,Replik,SIN RÉPLICA,FALSE,FALSE,"Tucuman, Argentina",FMS Argentina,3,2019-2020,"Sábado, 22 de Junio de 2019",22/06/2019
+Stuart,Klan,1 RÉPLICA,FALSE,FALSE,"Tucuman, Argentina",FMS Argentina,3,2019-2020,"Sábado, 22 de Junio de 2019",22/06/2019
+Nacho,Trueno,SIN RÉPLICA,FALSE,FALSE,"Tucuman, Argentina",FMS Argentina,3,2019-2020,"Sábado, 22 de Junio de 2019",22/06/2019
+Cacha,MKS,1 RÉPLICA,FALSE,FALSE,"Tucuman, Argentina",FMS Argentina,3,2019-2020,"Sábado, 22 de Junio de 2019",22/06/2019
+Kaiser,Tom Crowley,1 RÉPLICA,FALSE,FALSE,"Coquimbo, Chile",FMS Chile,3,2019-2020,"Sábado, 29 de Junio de 2019",29/06/2019
+El Menor,Pepe Grillo,SIN RÉPLICA,FALSE,FALSE,"Coquimbo, Chile",FMS Chile,3,2019-2020,"Sábado, 29 de Junio de 2019",29/06/2019
+Teorema,Ricto,SIN RÉPLICA,FALSE,FALSE,"Coquimbo, Chile",FMS Chile,3,2019-2020,"Sábado, 29 de Junio de 2019",29/06/2019
+Acertijo,Nitro,2 RÉPLICAS,FALSE,FALSE,"Coquimbo, Chile",FMS Chile,3,2019-2020,"Sábado, 29 de Junio de 2019",29/06/2019
+Stigma,Drose,2 RÉPLICAS,FALSE,FALSE,"Coquimbo, Chile",FMS Chile,3,2019-2020,"Sábado, 29 de Junio de 2019",29/06/2019
+Bnet,Skone,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,3,2019-2020,"Sábado, 06 de Julio de 2019",06/07/2019
+Mr Ego,Errecé,1 RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,3,2019-2020,"Sábado, 06 de Julio de 2019",06/07/2019
+Chuty,Blon,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,3,2019-2020,"Sábado, 06 de Julio de 2019",06/07/2019
+Walls,Force,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,3,2019-2020,"Sábado, 06 de Julio de 2019",06/07/2019
+Tirpa,Sweet Pain,EXHIBICIÓN,TRUE,FALSE,"Bilbao, España",FMS Espana,3,2019-2020,"Sábado, 06 de Julio de 2019",06/07/2019
+Jony Beltrán,Potencia,SIN RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,3,2019-2020,"Sábado, 13 de Julio de 2019",13/07/2019
+RC,McKlopedia,SIN RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,3,2019-2020,"Sábado, 13 de Julio de 2019",13/07/2019
+Zticma,Lobo Estepario,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,3,2019-2020,"Sábado, 13 de Julio de 2019",13/07/2019
+Yoiker,Jack Adrenalina,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,3,2019-2020,"Sábado, 13 de Julio de 2019",13/07/2019
+Aczino,Rapder,SIN RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,3,2019-2020,"Sábado, 13 de Julio de 2019",13/07/2019
+MKS,Klan,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,4,2019-2020,"Sábado, 20 de Julio de 2019",20/07/2019
+Trueno,Replik,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,4,2019-2020,"Sábado, 20 de Julio de 2019",20/07/2019
+Papo,Stuart,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,4,2019-2020,"Sábado, 20 de Julio de 2019",20/07/2019
+Dtoke,Nacho,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,4,2019-2020,"Sábado, 20 de Julio de 2019",20/07/2019
+Cacha,SUB,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,4,2019-2020,"Sábado, 20 de Julio de 2019",20/07/2019
+Nitro,El Menor,SIN RÉPLICA,FALSE,FALSE,"Arica, Chile",FMS Chile,4,2019-2020,"Sábado, 27 de Julio de 2019",27/07/2019
+Pepe Grillo,Kaiser,1 RÉPLICA,FALSE,FALSE,"Arica, Chile",FMS Chile,4,2019-2020,"Sábado, 27 de Julio de 2019",27/07/2019
+Teorema,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Arica, Chile",FMS Chile,4,2019-2020,"Sábado, 27 de Julio de 2019",27/07/2019
+Tom Crowley,Drose,1 RÉPLICA,FALSE,FALSE,"Arica, Chile",FMS Chile,4,2019-2020,"Sábado, 27 de Julio de 2019",27/07/2019
+Stigma,Ricto,POR DECISIÓN | 2 RÉPLICAS,FALSE,FALSE,"Arica, Chile",FMS Chile,4,2019-2020,"Sábado, 27 de Julio de 2019",27/07/2019
+Blon,Mr Ego,1 RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,4,2019-2020,"Sábado, 03 de Agosto de 2019",03/08/2019
+Skone,Chuty,2 RÉPLICAS,FALSE,FALSE,"Nigrán, España",FMS Espana,4,2019-2020,"Sábado, 03 de Agosto de 2019",03/08/2019
+Errecé,Walls,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,4,2019-2020,"Sábado, 03 de Agosto de 2019",03/08/2019
+Bnet,BTA,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,4,2019-2020,"Sábado, 03 de Agosto de 2019",03/08/2019
+Force,Zasko,SIN RÉPLICA,FALSE,FALSE,"Nigrán, España",FMS Espana,4,2019-2020,"Sábado, 03 de Agosto de 2019",03/08/2019
+Jony Beltrán,Lobo Estepario,SIN RÉPLICA,FALSE,FALSE,"Puebla, Puebla, México",FMS Mexico,4,2019-2020,"Domingo, 11 de Agosto de 2019",11/08/2019
+Potencia,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Puebla, Puebla, México",FMS Mexico,4,2019-2020,"Domingo, 11 de Agosto de 2019",11/08/2019
+Zticma,Rapder,1 RÉPLICA,FALSE,FALSE,"Puebla, Puebla, México",FMS Mexico,4,2019-2020,"Domingo, 11 de Agosto de 2019",11/08/2019
+Yoiker,McKlopedia,1 RÉPLICA,FALSE,FALSE,"Puebla, Puebla, México",FMS Mexico,4,2019-2020,"Domingo, 11 de Agosto de 2019",11/08/2019
+Aczino,RC,SIN RÉPLICA,FALSE,FALSE,"Puebla, Puebla, México",FMS Mexico,4,2019-2020,"Domingo, 11 de Agosto de 2019",11/08/2019
+Nacho,SUB,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,5,2019-2020,"Domingo, 18 de Agosto de 2019",18/08/2019
+Klan,Cacha,2 RÉPLICAS,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,5,2019-2020,"Domingo, 18 de Agosto de 2019",18/08/2019
+Dtoke,Replik,2 RÉPLICAS,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,5,2019-2020,"Domingo, 18 de Agosto de 2019",18/08/2019
+Trueno,Stuart,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,5,2019-2020,"Domingo, 18 de Agosto de 2019",18/08/2019
+MKS,Papo,1 RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,5,2019-2020,"Domingo, 18 de Agosto de 2019",18/08/2019
+Ricto,Drose,2 RÉPLICAS,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,5,2019-2020,"Sábado, 24 de Agosto de 2019",24/08/2019
+Tom Crowley,Nitro,1 RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,5,2019-2020,"Sábado, 24 de Agosto de 2019",24/08/2019
+El Menor,Stigma,2 RÉPLICAS,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,5,2019-2020,"Sábado, 24 de Agosto de 2019",24/08/2019
+Acertijo,Pepe Grillo,SIN RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,5,2019-2020,"Sábado, 24 de Agosto de 2019",24/08/2019
+Kaiser,Teorema,1 RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,5,2019-2020,"Sábado, 24 de Agosto de 2019",24/08/2019
+RC,Rapder,SIN RÉPLICA,FALSE,FALSE,"Tijuana, México, México",FMS Mexico,5,2019-2020,"Sábado, 31 de Agosto de 2019",31/08/2019
+Aczino,Potencia,SIN RÉPLICA,FALSE,FALSE,"Tijuana, México, México",FMS Mexico,5,2019-2020,"Sábado, 31 de Agosto de 2019",31/08/2019
+Jony Beltrán,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Tijuana, México, México",FMS Mexico,5,2019-2020,"Sábado, 31 de Agosto de 2019",31/08/2019
+Yoiker,Lobo Estepario,SIN RÉPLICA,FALSE,FALSE,"Tijuana, México, México",FMS Mexico,5,2019-2020,"Sábado, 31 de Agosto de 2019",31/08/2019
+Lancer Lirical,Skiper,EXHIBICIÓN,TRUE,FALSE,"Tijuana, México, México",FMS Mexico,5,2019-2020,"Sábado, 31 de Agosto de 2019",31/08/2019
+Potencia,RC,2 RÉPLICAS,FALSE,FALSE,"Queretaro, Queretaro, México",FMS Mexico,6,2019-2020,"Sábado, 21 de Septiembre de 2019",21/09/2019
+Aczino,Zticma,SIN RÉPLICA,FALSE,FALSE,"Queretaro, Queretaro, México",FMS Mexico,6,2019-2020,"Sábado, 21 de Septiembre de 2019",21/09/2019
+Rapder,Yoiker,1 RÉPLICA,FALSE,FALSE,"Queretaro, Queretaro, México",FMS Mexico,6,2019-2020,"Sábado, 21 de Septiembre de 2019",21/09/2019
+Lobo Estepario,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Queretaro, Queretaro, México",FMS Mexico,6,2019-2020,"Sábado, 21 de Septiembre de 2019",21/09/2019
+Jony Beltrán,Yartzi,EXHIBICIÓN,TRUE,FALSE,"Queretaro, Queretaro, México",FMS Mexico,6,2019-2020,"Sábado, 21 de Septiembre de 2019",21/09/2019
+Ricto,Pepe Grillo,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,6,2019-2020,"Sábado, 28 de Septiembre de 2019",28/09/2019
+Nitro,Drose,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,6,2019-2020,"Sábado, 28 de Septiembre de 2019",28/09/2019
+El Menor,Kaiser,2 RÉPLICAS,FALSE,FALSE,"Temuco, Chile",FMS Chile,6,2019-2020,"Sábado, 28 de Septiembre de 2019",28/09/2019
+Acertijo,Stigma,SIN RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,6,2019-2020,"Sábado, 28 de Septiembre de 2019",28/09/2019
+Jokker,Tom Crowley,EXHIBICIÓN,TRUE,FALSE,"Temuco, Chile",FMS Chile,6,2019-2020,"Sábado, 28 de Septiembre de 2019",28/09/2019
+MKS,Nacho,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,6,2019-2020,"Sábado, 05 de Octubre de 2019",05/10/2019
+Papo,SUB,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,6,2019-2020,"Sábado, 05 de Octubre de 2019",05/10/2019
+Stuart,Replik,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,6,2019-2020,"Sábado, 05 de Octubre de 2019",05/10/2019
+Cacha,Dtoke,1 RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,6,2019-2020,"Sábado, 05 de Octubre de 2019",05/10/2019
+Mecha,Klan,EXHIBICIÓN,TRUE,FALSE,"Rosario, Argentina",FMS Argentina,6,2019-2020,"Sábado, 05 de Octubre de 2019",05/10/2019
+Acertijo,Kaiser,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,7,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Tom Crowley,Stigma,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,7,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Drose,El Menor,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,7,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Joqerr,Pepe Grillo,EXHIBICIÓN,TRUE,FALSE,"Antofagasta, Chile",FMS Chile,7,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Nitro,Esezeta,EXHIBICIÓN,TRUE,FALSE,"Antofagasta, Chile",FMS Chile,7,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Mr Ego,Walls,2 RÉPLICAS,FALSE,FALSE,"Málaga, España",FMS Espana,5,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Bnet,Blon,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,5,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Force,BTA,1 RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,5,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Skone,Zasko,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,5,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Chuty,Errecé,SIN RÉPLICA,FALSE,FALSE,"Málaga, España",FMS Espana,5,2019-2020,"Sábado, 12 de Octubre de 2019",12/10/2019
+Aczino,McKlopedia,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+Potencia,Rapder,2 RÉPLICAS,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+RC,Lobo Estepario,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+Zticma,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+B One,Garza,EXHIBICIÓN,TRUE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+Letra,Yoiker,EXHIBICIÓN,TRUE,TRUE,"Monterrey, Nuevo León, México",FMS Mexico,7,2019-2020,"Viernes, 18 de Octubre de 2019",18/10/2019
+Chuty,Force,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Mr Ego,BTA,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Blon,Walls,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Skone,Errecé,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Zasko,Bnet,1 RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Gazir,Zaina,EXHIBICIÓN,TRUE,FALSE,"Salamanca, España",FMS Espana,6,2019-2020,"Domingo, 27 de Octubre de 2019",27/10/2019
+Stuart,Dtoke,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,7,2019-2020,"Sábado, 02 de Noviembre de 2019",02/11/2019
+Nacho,Replik,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,7,2019-2020,"Sábado, 02 de Noviembre de 2019",02/11/2019
+Cacha,Papo,2 RÉPLICAS,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,7,2019-2020,"Sábado, 02 de Noviembre de 2019",02/11/2019
+Trueno,MKS,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,7,2019-2020,"Sábado, 02 de Noviembre de 2019",02/11/2019
+Klan,SUB,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,7,2019-2020,"Sábado, 02 de Noviembre de 2019",02/11/2019
+Rapder,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,8,2019-2020,"Viernes, 08 de Noviembre de 2019",08/11/2019
+Lobo Estepario,McKlopedia,1 RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,8,2019-2020,"Viernes, 08 de Noviembre de 2019",08/11/2019
+Aczino,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,8,2019-2020,"Viernes, 08 de Noviembre de 2019",08/11/2019
+Potencia,Zticma,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,8,2019-2020,"Viernes, 08 de Noviembre de 2019",08/11/2019
+Teorema,Skiper,EXHIBICIÓN,TRUE,FALSE,"Mérida, Yucatán, México",FMS Mexico,8,2019-2020,"Viernes, 08 de Noviembre de 2019",08/11/2019
+Force,Botta,EXHIBICIÓN,TRUE,TRUE,"Asturias, España",FMS Espana,7,2019-2020,"Sábado, 16 de Noviembre de 2019",16/11/2019
+Bnet,Errecé,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,7,2019-2020,"Sábado, 16 de Noviembre de 2019",16/11/2019
+Chuty,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,7,2019-2020,"Sábado, 16 de Noviembre de 2019",16/11/2019
+Blon,Zasko,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,7,2019-2020,"Sábado, 16 de Noviembre de 2019",16/11/2019
+Walls,BTA,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,7,2019-2020,"Sábado, 16 de Noviembre de 2019",16/11/2019
+Force,Mr Ego,1 RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+BTA,Errecé,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+Walls,Bnet,DEFAULT,FALSE,FALSE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+Chuty,Zasko,DEFAULT,FALSE,FALSE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+Skone,Blon,1 RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+Sweet Pain,Mnak,EXHIBICIÓN,TRUE,TRUE,"Barcelona, España",FMS Espana,8,2019-2020,"Domingo, 01 de Diciembre de 2019",01/12/2019
+Cacha,Trueno,1 RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,8,2019-2020,"Sábado, 07 de Diciembre de 2019",07/12/2019
+MKS,Dtoke,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,8,2019-2020,"Sábado, 07 de Diciembre de 2019",07/12/2019
+Stuart,Nacho,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,8,2019-2020,"Sábado, 07 de Diciembre de 2019",07/12/2019
+SUB,Replik,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,8,2019-2020,"Sábado, 07 de Diciembre de 2019",07/12/2019
+Papo,Klan,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,8,2019-2020,"Sábado, 07 de Diciembre de 2019",07/12/2019
+Ricto,El Menor,1 RÉPLICA,FALSE,FALSE,"Punta Arenas, Chile",FMS Chile,8,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Pepe Grillo,Stigma,SIN RÉPLICA,FALSE,FALSE,"Punta Arenas, Chile",FMS Chile,8,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Kaiser,Drose,1 RÉPLICA,FALSE,FALSE,"Punta Arenas, Chile",FMS Chile,8,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Teorema,Nitro,1 RÉPLICA,FALSE,FALSE,"Punta Arenas, Chile",FMS Chile,8,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Acertijo,Tom Crowley,2 RÉPLICAS,FALSE,FALSE,"Punta Arenas, Chile",FMS Chile,8,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Blon,BTA,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Skone,Walls,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Zasko,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Chuty,Bnet,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+Errecé,Force,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2019-2020,"Sábado, 21 de Diciembre de 2019",21/12/2019
+RC,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2019-2020,"Domingo, 22 de Diciembre de 2019",22/12/2019
+Lobo Estepario,Rapder,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2019-2020,"Domingo, 22 de Diciembre de 2019",22/12/2019
+Aczino,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2019-2020,"Domingo, 22 de Diciembre de 2019",22/12/2019
+Potencia,McKlopedia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2019-2020,"Domingo, 22 de Diciembre de 2019",22/12/2019
+Zticma,Yoiker,3 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2019-2020,"Domingo, 22 de Diciembre de 2019",22/12/2019
+MKS,Replik,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2019-2020,"Sábado, 28 de Diciembre de 2019",28/12/2019
+Stuart,SUB,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2019-2020,"Sábado, 28 de Diciembre de 2019",28/12/2019
+Nacho,Cacha,2 RÉPLICAS,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2019-2020,"Sábado, 28 de Diciembre de 2019",28/12/2019
+Klan,Dtoke,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2019-2020,"Sábado, 28 de Diciembre de 2019",28/12/2019
+Trueno,Papo,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2019-2020,"Sábado, 28 de Diciembre de 2019",28/12/2019
+Pepe Grillo,Drose,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+Ricto,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+Teorema,Stigma,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+El Menor,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+Nitro,Kaiser,DEFAULT,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+Nitro,Rodamiento,EXHIBICIÓN,TRUE,TRUE,"Santiago, Chile",FMS Chile,9,2019-2020,"Domingo, 29 de Diciembre de 2019",29/12/2019
+Zasko,Gazir,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,1,2020-2021,"Sábado, 11 de Julio de 2020",11/07/2020
+Tirpa,Mr Ego,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,1,2020-2021,"Sábado, 11 de Julio de 2020",11/07/2020
+Sweet Pain,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,1,2020-2021,"Sábado, 11 de Julio de 2020",11/07/2020
+Mnak,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,1,2020-2021,"Sábado, 11 de Julio de 2020",11/07/2020
+Bnet,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,1,2020-2021,"Sábado, 11 de Julio de 2020",11/07/2020
+Skill,Choque,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2020-2021,"Sábado, 18 de Julio de 2020",18/07/2020
+Jota,Toy Lokazo,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2020-2021,"Sábado, 18 de Julio de 2020",18/07/2020
+Strike,Litzen,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2020-2021,"Sábado, 18 de Julio de 2020",18/07/2020
+Nekroos,Vijay Kesh,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2020-2021,"Sábado, 18 de Julio de 2020",18/07/2020
+Enzo,Zika,EXHIBICIÓN,TRUE,FALSE,"Lima, Perú",FMS Peru,1,2020-2021,"Sábado, 18 de Julio de 2020",18/07/2020
+Skiper,Rapder,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2020-2021,"Sábado, 25 de Julio de 2020",25/07/2020
+RC,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2020-2021,"Sábado, 25 de Julio de 2020",25/07/2020
+Yoiker,Zticma,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2020-2021,"Sábado, 25 de Julio de 2020",25/07/2020
+Lobo Estepario,Garza,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2020-2021,"Sábado, 25 de Julio de 2020",25/07/2020
+Jony Beltrán,B One,2 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,1,2020-2021,"Sábado, 25 de Julio de 2020",25/07/2020
+Litzen,Jota,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,2,2020-2021,"Sábado, 08 de Agosto de 2020",08/08/2020
+Choque,Vijay Kesh,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,2,2020-2021,"Sábado, 08 de Agosto de 2020",08/08/2020
+Toy Lokazo,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,2,2020-2021,"Sábado, 08 de Agosto de 2020",08/08/2020
+Skill,Ramset,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,2,2020-2021,"Sábado, 08 de Agosto de 2020",08/08/2020
+Piero Pistas,Diego MC,EXHIBICIÓN,TRUE,FALSE,"Lima, Perú",FMS Peru,2,2020-2021,"Sábado, 08 de Agosto de 2020",08/08/2020
+Esezeta,Nitro,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2020-2021,"Sábado, 15 de Agosto de 2020",15/08/2020
+Teorema,Joqerr,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2020-2021,"Sábado, 15 de Agosto de 2020",15/08/2020
+Ricto,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2020-2021,"Sábado, 15 de Agosto de 2020",15/08/2020
+Pepe Grillo,El Menor,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2020-2021,"Sábado, 15 de Agosto de 2020",15/08/2020
+Tom Crowley,Jokker,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,1,2020-2021,"Sábado, 15 de Agosto de 2020",15/08/2020
+Dtoke,Wolf,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,1,2020-2021,"Sábado, 29 de Agosto de 2020",29/08/2020
+Mecha,Klan,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,1,2020-2021,"Sábado, 29 de Agosto de 2020",29/08/2020
+Stuart,Nacho,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,1,2020-2021,"Sábado, 29 de Agosto de 2020",29/08/2020
+Papo,SUB,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,1,2020-2021,"Sábado, 29 de Agosto de 2020",29/08/2020
+Cacha,MKS,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,1,2020-2021,"Sábado, 29 de Agosto de 2020",29/08/2020
+Ricto,Teorema,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,2,2020-2021,"Sábado, 05 de Septiembre de 2020",05/09/2020
+Esezeta,El Menor,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,2,2020-2021,"Sábado, 05 de Septiembre de 2020",05/09/2020
+Pepe Grillo,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,2,2020-2021,"Sábado, 05 de Septiembre de 2020",05/09/2020
+Joqerr,Nitro,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,2,2020-2021,"Sábado, 05 de Septiembre de 2020",05/09/2020
+Acertijo,Jokker,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,2,2020-2021,"Sábado, 05 de Septiembre de 2020",05/09/2020
+Mnak,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,2,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Errecé,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,2,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Zasko,Sweet Pain,2 RÉPLICAS,FALSE,FALSE,"Madrid, España",FMS Espana,2,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Gazir,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,2,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Bnet,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,2,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Toy Lokazo,Choque,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,3,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Nekroos,Ramset,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,3,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Stick,Litzen,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,3,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Strike,Vijay Kesh,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,3,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Jota,Skill,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,3,2020-2021,"Sábado, 12 de Septiembre de 2020",12/09/2020
+Garza,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,2,2020-2021,"Sábado, 19 de Septiembre de 2020",19/09/2020
+Rapder,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,2,2020-2021,"Sábado, 19 de Septiembre de 2020",19/09/2020
+Jony Beltrán,Zticma,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,2,2020-2021,"Sábado, 19 de Septiembre de 2020",19/09/2020
+Lobo Estepario,Skiper,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,2,2020-2021,"Sábado, 19 de Septiembre de 2020",19/09/2020
+RC,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,2,2020-2021,"Sábado, 19 de Septiembre de 2020",19/09/2020
+Stuart,Mecha,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,2,2020-2021,"Sábado, 26 de Septiembre de 2020",26/09/2020
+Wolf,Cacha,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,2,2020-2021,"Sábado, 26 de Septiembre de 2020",26/09/2020
+Nacho,MKS,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,2,2020-2021,"Sábado, 26 de Septiembre de 2020",26/09/2020
+Tiago,Zaina,EXHIBICIÓN,TRUE,FALSE,"Argentina, Argentina",FMS Argentina,2,2020-2021,"Sábado, 26 de Septiembre de 2020",26/09/2020
+Klan,Papo,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,2,2020-2021,"Sábado, 26 de Septiembre de 2020",26/09/2020
+Choque,Jota,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,4,2020-2021,"Sábado, 03 de Octubre de 2020",03/10/2020
+Strike,Skill,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,4,2020-2021,"Sábado, 03 de Octubre de 2020",03/10/2020
+Nekroos,Litzen,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,4,2020-2021,"Sábado, 03 de Octubre de 2020",03/10/2020
+Toy Lokazo,Ramset,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,4,2020-2021,"Sábado, 03 de Octubre de 2020",03/10/2020
+Vijay Kesh,Stick,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,4,2020-2021,"Sábado, 03 de Octubre de 2020",03/10/2020
+Gazir,Mnak,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,3,2020-2021,"Sábado, 10 de Octubre de 2020",10/10/2020
+Bnet,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,3,2020-2021,"Sábado, 10 de Octubre de 2020",10/10/2020
+Mr Ego,Zasko,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,3,2020-2021,"Sábado, 10 de Octubre de 2020",10/10/2020
+Sweet Pain,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,3,2020-2021,"Sábado, 10 de Octubre de 2020",10/10/2020
+Errecé,Jado,EXHIBICIÓN,TRUE,FALSE,"Madrid, España",FMS Espana,3,2020-2021,"Sábado, 10 de Octubre de 2020",10/10/2020
+Teorema,Esezeta,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,3,2020-2021,"Domingo, 11 de Octubre de 2020",11/10/2020
+Tom Crowley,Ricto,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,3,2020-2021,"Domingo, 11 de Octubre de 2020",11/10/2020
+Joqerr,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,3,2020-2021,"Domingo, 11 de Octubre de 2020",11/10/2020
+Nitro,El Menor,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,3,2020-2021,"Domingo, 11 de Octubre de 2020",11/10/2020
+Pepe Grillo,Jokker,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,3,2020-2021,"Domingo, 11 de Octubre de 2020",11/10/2020
+Wolf,SUB,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,3,2020-2021,"Sábado, 17 de Octubre de 2020",17/10/2020
+Mecha,Cacha,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,3,2020-2021,"Sábado, 17 de Octubre de 2020",17/10/2020
+Klan,Stuart,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,3,2020-2021,"Sábado, 17 de Octubre de 2020",17/10/2020
+Nacho,Dtoke,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,3,2020-2021,"Sábado, 17 de Octubre de 2020",17/10/2020
+Papo,MKS,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,3,2020-2021,"Sábado, 17 de Octubre de 2020",17/10/2020
+Nitro,Jokker,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,4,2020-2021,"Sábado, 31 de Octubre de 2020",31/10/2020
+Acertijo,Tom Crowley,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,4,2020-2021,"Sábado, 31 de Octubre de 2020",31/10/2020
+Ricto,Esezeta,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,4,2020-2021,"Sábado, 31 de Octubre de 2020",31/10/2020
+Pepe Grillo,Teorema,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,4,2020-2021,"Sábado, 31 de Octubre de 2020",31/10/2020
+El Menor,Joqerr,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,4,2020-2021,"Sábado, 31 de Octubre de 2020",31/10/2020
+Garza,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,3,2020-2021,"Domingo, 01 de Noviembre de 2020",01/11/2020
+Skiper,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,3,2020-2021,"Domingo, 01 de Noviembre de 2020",01/11/2020
+Rapder,Zticma,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,3,2020-2021,"Domingo, 01 de Noviembre de 2020",01/11/2020
+Yoiker,RC,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,3,2020-2021,"Domingo, 01 de Noviembre de 2020",01/11/2020
+Lobo Estepario,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,3,2020-2021,"Domingo, 01 de Noviembre de 2020",01/11/2020
+Bnet,Mnak,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,4,2020-2021,"Sábado, 07 de Noviembre de 2020",07/11/2020
+Zasko,Blon,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,4,2020-2021,"Sábado, 07 de Noviembre de 2020",07/11/2020
+Gazir,Sweet Pain,2 RÉPLICAS,FALSE,FALSE,"Madrid, España",FMS Espana,4,2020-2021,"Sábado, 07 de Noviembre de 2020",07/11/2020
+Mr Ego,Vivi,EXHIBICIÓN,TRUE,FALSE,"Madrid, España",FMS Espana,4,2020-2021,"Sábado, 07 de Noviembre de 2020",07/11/2020
+Tirpa,Jesus LC,EXHIBICIÓN,TRUE,FALSE,"Madrid, España",FMS Espana,4,2020-2021,"Sábado, 07 de Noviembre de 2020",07/11/2020
+Strike,Jota,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,5,2020-2021,"Viernes, 20 de Noviembre de 2020",20/11/2020
+Toy Lokazo,Stick,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,5,2020-2021,"Viernes, 20 de Noviembre de 2020",20/11/2020
+Nekroos,Choque,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,5,2020-2021,"Viernes, 20 de Noviembre de 2020",20/11/2020
+Ramset,Litzen,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,5,2020-2021,"Viernes, 20 de Noviembre de 2020",20/11/2020
+Vijay Kesh,Skill,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,5,2020-2021,"Viernes, 20 de Noviembre de 2020",20/11/2020
+Papo,Wolf,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,4,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Klan,Cacha,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,4,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Stuart,SUB,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,4,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Nacho,Mecha,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,4,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+MP,MKS,EXHIBICIÓN,TRUE,FALSE,"Argentina, Argentina",FMS Argentina,4,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Blon,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,5,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Tirpa,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,5,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Bnet,Zasko,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,5,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Mnak,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,5,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Gazir,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,5,2020-2021,"Sábado, 28 de Noviembre de 2020",28/11/2020
+Lobo Estepario,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,4,2020-2021,"Domingo, 29 de Noviembre de 2020",29/11/2020
+Potencia,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,4,2020-2021,"Domingo, 29 de Noviembre de 2020",29/11/2020
+Rapder,Garza,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,4,2020-2021,"Domingo, 29 de Noviembre de 2020",29/11/2020
+Skiper,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,4,2020-2021,"Domingo, 29 de Noviembre de 2020",29/11/2020
+RC,Ari Carrillo,EXHIBICIÓN,TRUE,FALSE,"Ciudad de México, México",FMS Mexico,4,2020-2021,"Domingo, 29 de Noviembre de 2020",29/11/2020
+Joqerr,Ricto,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2020-2021,"Sábado, 05 de Diciembre de 2020",05/12/2020
+Nitro,Pepe Grillo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2020-2021,"Sábado, 05 de Diciembre de 2020",05/12/2020
+Teorema,Tom Crowley,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2020-2021,"Sábado, 05 de Diciembre de 2020",05/12/2020
+Jokker,Esezeta,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2020-2021,"Sábado, 05 de Diciembre de 2020",05/12/2020
+JNO,Metalinguistica,EXHIBICIÓN,TRUE,FALSE,"Santiago, Chile",FMS Chile,5,2020-2021,"Sábado, 05 de Diciembre de 2020",05/12/2020
+Skiper,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,5,2020-2021,"Sábado, 19 de Diciembre de 2020",19/12/2020
+RC,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,5,2020-2021,"Sábado, 19 de Diciembre de 2020",19/12/2020
+Rapder,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,5,2020-2021,"Sábado, 19 de Diciembre de 2020",19/12/2020
+Zticma,Lobo Estepario,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,5,2020-2021,"Sábado, 19 de Diciembre de 2020",19/12/2020
+Yoiker,Garza,2 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,5,2020-2021,"Sábado, 19 de Diciembre de 2020",19/12/2020
+Zasko,Mnak,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Tirpa,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Gazir,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Blon,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Sawi Elekipo,Hander,EXHIBICIÓN,TRUE,FALSE,"Madrid, España",FMS Espana,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Stick,Jota,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Nekroos,Strike,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Skill,Litzen,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Toy Lokazo,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Ramset,Choque,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,6,2020-2021,"Domingo, 20 de Diciembre de 2020",20/12/2020
+Stuart,Wolf,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,5,2020-2021,"Domingo, 27 de Diciembre de 2020",27/12/2020
+MKS,Klan,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,5,2020-2021,"Domingo, 27 de Diciembre de 2020",27/12/2020
+Mecha,Dtoke,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,5,2020-2021,"Domingo, 27 de Diciembre de 2020",27/12/2020
+Naista,Nacho,EXHIBICIÓN,TRUE,FALSE,"Argentina, Argentina",FMS Argentina,5,2020-2021,"Domingo, 27 de Diciembre de 2020",27/12/2020
+G Sony,Lit Killah,EXHIBICIÓN,TRUE,FALSE,"Argentina, Argentina",FMS Argentina,5,2020-2021,"Domingo, 27 de Diciembre de 2020",27/12/2020
+Pepe Grillo,Esezeta,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,6,2020-2021,"Viernes, 22 de Enero de 2021",22/01/2021
+Jokker,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,6,2020-2021,"Viernes, 22 de Enero de 2021",22/01/2021
+Nitro,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,6,2020-2021,"Viernes, 22 de Enero de 2021",22/01/2021
+Acertijo,Teorema,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,6,2020-2021,"Viernes, 22 de Enero de 2021",22/01/2021
+El Menor,Ricto,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,6,2020-2021,"Viernes, 22 de Enero de 2021",22/01/2021
+Mnak,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2020-2021,"Sábado, 23 de Enero de 2021",23/01/2021
+Bnet,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2020-2021,"Sábado, 23 de Enero de 2021",23/01/2021
+Zasko,Errecé,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2020-2021,"Sábado, 23 de Enero de 2021",23/01/2021
+Gazir,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,7,2020-2021,"Sábado, 23 de Enero de 2021",23/01/2021
+Tirpa,Sara Socas,EXHIBICIÓN,TRUE,FALSE,"Madrid, España",FMS Espana,7,2020-2021,"Sábado, 23 de Enero de 2021",23/01/2021
+Jota,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,7,2020-2021,"Domingo, 24 de Enero de 2021",24/01/2021
+Skill,Nekroos,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,7,2020-2021,"Domingo, 24 de Enero de 2021",24/01/2021
+Ramset,Strike,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,7,2020-2021,"Domingo, 24 de Enero de 2021",24/01/2021
+Toy Lokazo,Litzen,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,7,2020-2021,"Domingo, 24 de Enero de 2021",24/01/2021
+Stick,Choque,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,7,2020-2021,"Domingo, 24 de Enero de 2021",24/01/2021
+Yoiker,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,6,2020-2021,"Viernes, 12 de Febrero de 2021",12/02/2021
+Skiper,RC,3 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,6,2020-2021,"Viernes, 12 de Febrero de 2021",12/02/2021
+B One,Zticma,2 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,6,2020-2021,"Viernes, 12 de Febrero de 2021",12/02/2021
+Garza,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,6,2020-2021,"Viernes, 12 de Febrero de 2021",12/02/2021
+Lancer Lirical,Red One,EXHIBICIÓN,TRUE,TRUE,"Ciudad de México, México",FMS Mexico,6,2020-2021,"Viernes, 12 de Febrero de 2021",12/02/2021
+Klan,SUB,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,6,2020-2021,"Sábado, 13 de Febrero de 2021",13/02/2021
+Dtoke,Papo,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,6,2020-2021,"Sábado, 13 de Febrero de 2021",13/02/2021
+Mecha,Wolf,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,6,2020-2021,"Sábado, 13 de Febrero de 2021",13/02/2021
+Stuart,MKS,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,6,2020-2021,"Sábado, 13 de Febrero de 2021",13/02/2021
+Nacho,Cacha,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,6,2020-2021,"Sábado, 13 de Febrero de 2021",13/02/2021
+Jokker,Teorema,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,7,2020-2021,"Domingo, 21 de Febrero de 2021",21/02/2021
+Acertijo,Pepe Grillo,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,7,2020-2021,"Domingo, 21 de Febrero de 2021",21/02/2021
+Joqerr,Esezeta,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,7,2020-2021,"Domingo, 21 de Febrero de 2021",21/02/2021
+El Menor,Tom Crowley,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,7,2020-2021,"Domingo, 21 de Febrero de 2021",21/02/2021
+Nitro,Ricto,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,7,2020-2021,"Domingo, 21 de Febrero de 2021",21/02/2021
+Garza,Zticma,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,7,2020-2021,"Viernes, 26 de Febrero de 2021",26/02/2021
+Lobo Estepario,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,7,2020-2021,"Viernes, 26 de Febrero de 2021",26/02/2021
+Potencia,Skiper,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,7,2020-2021,"Viernes, 26 de Febrero de 2021",26/02/2021
+Yoiker,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,7,2020-2021,"Viernes, 26 de Febrero de 2021",26/02/2021
+Rapder,Fat Tony,EXHIBICIÓN,TRUE,FALSE,"Ciudad de México, México",FMS Mexico,7,2020-2021,"Viernes, 26 de Febrero de 2021",26/02/2021
+Bnet,Blon,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2020-2021,"Sábado, 27 de Febrero de 2021",27/02/2021
+Mnak,Sweet Pain,2 RÉPLICAS,FALSE,FALSE,"Madrid, España",FMS Espana,8,2020-2021,"Sábado, 27 de Febrero de 2021",27/02/2021
+Gazir,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2020-2021,"Sábado, 27 de Febrero de 2021",27/02/2021
+Mr Ego,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2020-2021,"Sábado, 27 de Febrero de 2021",27/02/2021
+Zasko,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,8,2020-2021,"Sábado, 27 de Febrero de 2021",27/02/2021
+Papo,Mecha,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,7,2020-2021,"Domingo, 28 de Febrero de 2021",28/02/2021
+Klan,Dtoke,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,7,2020-2021,"Domingo, 28 de Febrero de 2021",28/02/2021
+Stuart,Cacha,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,7,2020-2021,"Domingo, 28 de Febrero de 2021",28/02/2021
+MKS,SUB,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,7,2020-2021,"Domingo, 28 de Febrero de 2021",28/02/2021
+Wolf,Nacho,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,7,2020-2021,"Domingo, 28 de Febrero de 2021",28/02/2021
+Toy Lokazo,Skill,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2020-2021,"Sábado, 06 de Marzo de 2021",06/03/2021
+Jota,Nekroos,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2020-2021,"Sábado, 06 de Marzo de 2021",06/03/2021
+Choque,Litzen,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2020-2021,"Sábado, 06 de Marzo de 2021",06/03/2021
+Vijay Kesh,Ramset,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2020-2021,"Sábado, 06 de Marzo de 2021",06/03/2021
+Stick,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2020-2021,"Sábado, 06 de Marzo de 2021",06/03/2021
+Lobo Estepario,Yoiker,2 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2020-2021,"Sábado, 13 de Marzo de 2021",13/03/2021
+Garza,RC,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2020-2021,"Sábado, 13 de Marzo de 2021",13/03/2021
+Rapder,Jony Beltrán,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2020-2021,"Sábado, 13 de Marzo de 2021",13/03/2021
+Potencia,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2020-2021,"Sábado, 13 de Marzo de 2021",13/03/2021
+Zticma,Skiper,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2020-2021,"Sábado, 13 de Marzo de 2021",13/03/2021
+Tom Crowley,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,8,2020-2021,"Domingo, 14 de Marzo de 2021",14/03/2021
+Pepe Grillo,Ricto,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,8,2020-2021,"Domingo, 14 de Marzo de 2021",14/03/2021
+Teorema,Nitro,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,8,2020-2021,"Domingo, 14 de Marzo de 2021",14/03/2021
+Acertijo,Esezeta,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,8,2020-2021,"Domingo, 14 de Marzo de 2021",14/03/2021
+Jokker,El Menor,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,8,2020-2021,"Domingo, 14 de Marzo de 2021",14/03/2021
+Vijay Kesh,Litzen,2 RÉPLICAS,FALSE,FALSE,"Lima, Perú",FMS Peru,9,2020-2021,"Sábado, 20 de Marzo de 2021",20/03/2021
+Strike,Choque,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,9,2020-2021,"Sábado, 20 de Marzo de 2021",20/03/2021
+Stick,Skill,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,9,2020-2021,"Sábado, 20 de Marzo de 2021",20/03/2021
+Toy Lokazo,Nekroos,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,9,2020-2021,"Sábado, 20 de Marzo de 2021",20/03/2021
+Diego MC,Jair Wong,EXHIBICIÓN,TRUE,FALSE,"Lima, Perú",FMS Peru,9,2020-2021,"Sábado, 20 de Marzo de 2021",20/03/2021
+Stuart,Papo,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,8,2020-2021,"Domingo, 21 de Marzo de 2021",21/03/2021
+Mecha,MKS,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,8,2020-2021,"Domingo, 21 de Marzo de 2021",21/03/2021
+Nacho,SUB,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,8,2020-2021,"Domingo, 21 de Marzo de 2021",21/03/2021
+Dtoke,Cacha,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,8,2020-2021,"Domingo, 21 de Marzo de 2021",21/03/2021
+Klan,Wolf,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,8,2020-2021,"Domingo, 21 de Marzo de 2021",21/03/2021
+Tirpa,Zasko,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2020-2021,"Sábado, 27 de Marzo de 2021",27/03/2021
+Blon,Khan,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2020-2021,"Sábado, 27 de Marzo de 2021",27/03/2021
+Sweet Pain,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2020-2021,"Sábado, 27 de Marzo de 2021",27/03/2021
+Bnet,Gazir,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2020-2021,"Sábado, 27 de Marzo de 2021",27/03/2021
+Mnak,Errecé,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,9,2020-2021,"Sábado, 27 de Marzo de 2021",27/03/2021
+Jokker,Ricto,2 RÉPLICAS,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2020-2021,"Sábado, 03 de Abril de 2021",03/04/2021
+El Menor,Teorema,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2020-2021,"Sábado, 03 de Abril de 2021",03/04/2021
+Nitro,Acertijo,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2020-2021,"Sábado, 03 de Abril de 2021",03/04/2021
+Joqerr,Pepe Grillo,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2020-2021,"Sábado, 03 de Abril de 2021",03/04/2021
+Tom Crowley,Esezeta,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,9,2020-2021,"Sábado, 03 de Abril de 2021",03/04/2021
+Skiper,Garza,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2020-2021,"Sábado, 10 de Abril de 2021",10/04/2021
+Zticma,Potencia,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2020-2021,"Sábado, 10 de Abril de 2021",10/04/2021
+Jony Beltrán,Yoiker,2 RÉPLICAS,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2020-2021,"Sábado, 10 de Abril de 2021",10/04/2021
+Rapder,B One,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2020-2021,"Sábado, 10 de Abril de 2021",10/04/2021
+RC,Lobo Estepario,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,9,2020-2021,"Sábado, 10 de Abril de 2021",10/04/2021
+Mecha,SUB,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,9,2020-2021,"Sábado, 17 de Abril de 2021",17/04/2021
+Klan,Nacho,2 RÉPLICAS,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,9,2020-2021,"Sábado, 17 de Abril de 2021",17/04/2021
+Wolf,MKS,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,9,2020-2021,"Sábado, 17 de Abril de 2021",17/04/2021
+Papo,Cacha,SIN RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,9,2020-2021,"Sábado, 17 de Abril de 2021",17/04/2021
+Stuart,Dtoke,1 RÉPLICA,FALSE,FALSE,"Argentina, Argentina",FMS Argentina,9,2020-2021,"Sábado, 17 de Abril de 2021",17/04/2021
+Black Code,Diego MC,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Kian,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Stick,Jair Wong,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Toy Lokazo,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Jota,Skill,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Nekroos,Ghost,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,1,2021-2023,"Domingo, 10 de Octubre de 2021",10/10/2021
+Jota,Black Code,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Nekroos,Jair Wong,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Vijay Kesh,Stick,SIN RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Skill,Ghost,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Kian,Toy Lokazo,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Diego MC,Strike,SIN RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,2,2021-2023,"Sábado, 20 de Noviembre de 2021",20/11/2021
+Klan,Tata,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Wolf,Zaina,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Larrix,Nacho,SIN RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Mecha,Naista,1 RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Katra,Stuart,1 RÉPLICA,FALSE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Replik,SUB,EXHIBICIÓN,TRUE,FALSE,"Mendoza, Argentina",FMS Argentina,1,2021-2023,"Sábado, 04 de Diciembre de 2021",04/12/2021
+Mnak,Blon,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Skone,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Chuty,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Gazir,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Sweet Pain,Hander,1 RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Zasko,Sara Socas,1 RÉPLICA,FALSE,FALSE,"Asturias, España",FMS Espana,1,2021-2023,"Sábado, 18 de Diciembre de 2021",18/12/2021
+Zaina,Naista,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Stuart,MP,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Papo,Mecha,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Klan,Katra,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Jesse Pungaz,Tata,EXHIBICIÓN,TRUE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Wolf,Barba Roja,EXHIBICIÓN,TRUE,FALSE,"Buenos Aires, Argentina",FMS Argentina,2,2021-2023,"Miércoles, 29 de Diciembre de 2021",29/12/2021
+Zticma,Dominic,SIN RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+RC,Dante,SIN RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+Rapder,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+Lobo Estepario,Skiper,1 RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+Lancer Lirical,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+Aczino,Garza,SIN RÉPLICA,FALSE,FALSE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+B One,Lobo López,EXHIBICIÓN,TRUE,TRUE,"Monterrey, México",FMS Mexico,1,2021-2023,"Sábado, 08 de Enero de 2022",08/01/2022
+Stick,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Vijay Kesh,Toy Lokazo,1 RÉPLICA,FALSE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Jota,Ghost,SIN RÉPLICA,FALSE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Skill,Kian,1 RÉPLICA,FALSE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Blaximental,Lokillo,EXHIBICIÓN,TRUE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Xplain,Venti,EXHIBICIÓN,TRUE,FALSE,"Lima Norte, Perú",FMS Peru,3,2021-2023,"Sábado, 22 de Enero de 2022",22/01/2022
+Mnak,Gazir,1 RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Chuty,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Sawi Elekipo,Hander,1 RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Sweet Pain,Zasko,SIN RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Mr Ego,Tirpa,1 RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Blon,Skone,SIN RÉPLICA,FALSE,FALSE,"Granada, España",FMS Espana,2,2021-2023,"Sábado, 05 de Febrero de 2022",05/02/2022
+Jony Beltrán,Dominic,SIN RÉPLICA,FALSE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Lancer Lirical,Dante,1 RÉPLICA,FALSE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Garza,Skiper,1 RÉPLICA,FALSE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Lobo Estepario,RC,SIN RÉPLICA,FALSE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Aczino,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Gonzo,Saturno,EXHIBICIÓN,TRUE,FALSE,"Puebla, México",FMS Mexico,2,2021-2023,"Domingo, 06 de Febrero de 2022",06/02/2022
+Jokker,Metalinguistica,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Nitro,Anubis,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Basek,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Joqerr,JNO,1 RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Teorema,Acertijo,1 RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Rodamiento,Erreka,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,1,2021-2023,"Sábado, 12 de Febrero de 2022",12/02/2022
+Big Killah,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Chang,RBN,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Elevn,Letra,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Filósofo,ÑKO,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Lokillo,Carpediem,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Valles T,Airon,SIN RÉPLICA,FALSE,FALSE,"Medellín, Colombia",FMS Colombia,1,2021-2023,"Sábado, 26 de Febrero de 2022",26/02/2022
+Blon,Zasko,SIN RÉPLICA,FALSE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Gazir,Hander,SIN RÉPLICA,FALSE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Sara Socas,Sweet Pain,1 RÉPLICA,FALSE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Tirpa,Sawi Elekipo,1 RÉPLICA,FALSE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Chuty,Mnak,1 RÉPLICA,FALSE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Jaff,Mr Ego,EXHIBICIÓN,TRUE,FALSE,"Santiago de Compostela, España",FMS Espana,3,2021-2023,"Sábado, 26 de Marzo de 2022",26/03/2022
+Acertijo,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Rodamiento,Nitro,1 RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Basek,Metalinguistica,SIN RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Erreka,Tom Crowley,1 RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Teorema,Jokker,1 RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Anubis,JNO,SIN RÉPLICA,FALSE,FALSE,"Viña del Mar, Chile",FMS Chile,2,2021-2023,"Domingo, 27 de Marzo de 2022",27/03/2022
+Lokillo,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+Letra,ÑKO,1 RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+Valles T,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+Chang,Carpediem,1 RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+Filósofo,Airon,1 RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+RBN,Elevn,SIN RÉPLICA,FALSE,FALSE,"Barranquilla, Colombia",FMS Colombia,2,2021-2023,"Viernes, 29 de Abril de 2022",29/04/2022
+MP,Wolf,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Larrix,Tata,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Stuart,Naista,1 RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Zaina,Klan,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Mecha,Nacho,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Mr Ego,Replik,EXHIBICIÓN,TRUE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Aczino,Lancer Lirical,SIN RÉPLICA,FALSE,FALSE,"La Plata, Argentina",FMS Argentina,3,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Diego MC,Ghost,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Strike,Kian,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Stick,Black Code,1 RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Toy Lokazo,Jair Wong,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Skill,Vijay Kesh,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Nekroos,Jota,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,4,2021-2023,"Sábado, 30 de Abril de 2022",30/04/2022
+Zticma,Garza,1 RÉPLICA,FALSE,FALSE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+Dante,Skiper,1 RÉPLICA,FALSE,FALSE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+Lobo Estepario,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+Rapder,Dominic,SIN RÉPLICA,FALSE,FALSE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+Yoiker,RC,1 RÉPLICA,FALSE,FALSE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+K-Road,Potencia,EXHIBICIÓN,TRUE,TRUE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+Sweet Pain,Teorema,EXHIBICIÓN,TRUE,TRUE,"Ciudad Juárez, México",FMS Mexico,3,2021-2023,"Domingo, 01 de Mayo de 2022",01/05/2022
+RBN,Letra,1 RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+Elevn,Lokillo,1 RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+Filósofo,Carpediem,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+ÑKO,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+Valles T,Chang,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+Airon,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,3,2021-2023,"Viernes, 06 de Mayo de 2022",06/05/2022
+Acertijo,JNO,1 RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Jokker,Anubis,1 RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Nitro,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Joqerr,Basek,SIN RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Metalinguistica,Rodamiento,SIN RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Teorema,Erreka,SIN RÉPLICA,FALSE,FALSE,"Puerto Montt, Chile",FMS Chile,3,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Sweet Pain,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Mr Ego,Mnak,1 RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Zasko,Hander,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Chuty,Blon,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Gazir,Skone,SIN RÉPLICA,FALSE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Sara Socas,Yartzi,EXHIBICIÓN,TRUE,FALSE,"Salamanca, España",FMS Espana,4,2021-2023,"Sábado, 07 de Mayo de 2022",07/05/2022
+Papo,Tata,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Larrix,Stuart,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Klan,Naista,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Wolf,Nacho,1 RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Mecha,Katra,SIN RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Zaina,MP,1 RÉPLICA,FALSE,FALSE,"Rosario, Argentina",FMS Argentina,4,2021-2023,"Sábado, 18 de Junio de 2022",18/06/2022
+Mnak,Hander,SIN RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Gazir,Blon,SIN RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Zasko,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Mr Ego,Sara Socas,1 RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Chuty,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Skone,Sweet Pain,1 RÉPLICA,FALSE,FALSE,"Zaragoza, España",FMS Espana,5,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Filósofo,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Airon,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Carpediem,Letra,1 RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Lokillo,ÑKO,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Chang,Elevn,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Valles T,RBN,1 RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Coloso,Vijay Kesh,EXHIBICIÓN,TRUE,FALSE,"Bogotá, Colombia",FMS Colombia,4,2021-2023,"Domingo, 26 de Junio de 2022",26/06/2022
+Skiper,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Aczino,Dante,SIN RÉPLICA,FALSE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Yoiker,Garza,1 RÉPLICA,FALSE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+RC,Dominic,1 RÉPLICA,FALSE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Rapder,Lancer Lirical,SIN RÉPLICA,FALSE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Stigma,Zticma,EXHIBICIÓN,TRUE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Fat Tony,Majestic,EXHIBICIÓN,TRUE,FALSE,"León, Guanajuato, México",FMS Mexico,4,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Strike,Skill,1 RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Kian,Black Code,SIN RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Toy Lokazo,Ghost,SIN RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Nekroos,Diego MC,SIN RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Jair Wong,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Stick,Jota,SIN RÉPLICA,FALSE,FALSE,"Piura, Perú",FMS Peru,6,2021-2023,"Sábado, 09 de Julio de 2022",09/07/2022
+Joqerr,Jokker,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Rodamiento,Basek,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Anubis,Erreka,1 RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Nitro,JNO,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Acertijo,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+El Menor,Metalinguistica,EXHIBICIÓN,TRUE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Racso,Sedy,EXHIBICIÓN,TRUE,FALSE,"Antofagasta, Chile",FMS Chile,4,2021-2023,"Domingo, 10 de Julio de 2022",10/07/2022
+Elevn,Filósofo,1 RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+RBN,Lokillo,1 RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+Chang,Letra,1 RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+Valles T,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+ÑKO,Airon,1 RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+Gavyria,Carpediem,1 RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,5,2021-2023,"Domingo, 24 de Julio de 2022",24/07/2022
+Lobo Estepario,Dominic,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Lancer Lirical,Garza,1 RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Skiper,Rapder,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Aczino,RC,SIN RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Yoiker,Dante,1 RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Jony Beltrán,Zticma,1 RÉPLICA,FALSE,FALSE,"Mérida, Yucatán, México",FMS Mexico,5,2021-2023,"Sábado, 13 de Agosto de 2022",13/08/2022
+Airon,Elevn,SIN RÉPLICA,FALSE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Lokillo,Letra,1 RÉPLICA,FALSE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Big Killah,Carpediem,SIN RÉPLICA,FALSE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Chang,Filósofo,1 RÉPLICA,FALSE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Valles T,ÑKO,1 RÉPLICA,FALSE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Ken Zingle,Mr Ego,EXHIBICIÓN,TRUE,FALSE,"Bucaramanga, Colombia",FMS Colombia,6,2021-2023,"Sábado, 20 de Agosto de 2022",20/08/2022
+Zaina,Larrix,1 RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Klan,MP,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Mecha,Tata,SIN RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Nacho,Stuart,1 RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Katra,Naista,1 RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+CTZ,Mito,EXHIBICIÓN,TRUE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Papo,Wolf,1 RÉPLICA,FALSE,FALSE,"Corrientes, Argentina",FMS Argentina,5,2021-2023,"Sábado, 27 de Agosto de 2022",27/08/2022
+Vijay Kesh,Jota,SIN RÉPLICA,FALSE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+Ghost,Strike,SIN RÉPLICA,FALSE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+Skill,Stick,1 RÉPLICA,FALSE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+Nekroos,Kian,1 RÉPLICA,FALSE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+Black Code,Jair Wong,SIN RÉPLICA,FALSE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+El Menor,Diego MC,EXHIBICIÓN,TRUE,FALSE,"Huancayo, Perú",FMS Peru,7,2021-2023,"Domingo, 04 de Septiembre de 2022",04/09/2022
+Gazir,Zasko,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Sawi Elekipo,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Blon,Tirpa,1 RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Sara Socas,Hander,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Mnak,Sweet Pain,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Chuty,Skone,SIN RÉPLICA,FALSE,FALSE,"Murcia, España",FMS Espana,6,2021-2023,"Sábado, 10 de Septiembre de 2022",10/09/2022
+Lobo Estepario,Yoiker,SIN RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+Aczino,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+Rapder,Dante,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+Dominic,Lancer Lirical,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+Zticma,Skiper,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+RC,Garza,1 RÉPLICA,FALSE,FALSE,"Guadalajara, Jalisco, México",FMS Mexico,6,2021-2023,"Domingo, 11 de Septiembre de 2022",11/09/2022
+Letra,Gavyria,1 RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+RBN,Big Killah,1 RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+ÑKO,Elevn,1 RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+Chang,Airon,SIN RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+Valles T,Carpediem,1 RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+Lokillo,Filósofo,1 RÉPLICA,FALSE,FALSE,"La Sabana, Colombia",FMS Colombia,7,2021-2023,"Sábado, 24 de Septiembre de 2022",24/09/2022
+Blon,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Skone,Hander,SIN RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Sawi Elekipo,Mnak,1 RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Sweet Pain,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Chuty,Zasko,1 RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Gazir,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Sevilla, España",FMS Espana,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Skiper,Yoiker,1 RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+RC,Lancer Lirical,1 RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Aczino,Zticma,SIN RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Dante,Dominic,1 RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Lobo Estepario,Garza,1 RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Rapder,Jony Beltrán,1 RÉPLICA,FALSE,FALSE,"Torreón, Coahuila, México",FMS Mexico,7,2021-2023,"Domingo, 25 de Septiembre de 2022",25/09/2022
+Tom Crowley,Metalinguistica,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Nitro,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Anubis,Acertijo,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Basek,Teorema,SIN RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Rodamiento,Jokker,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Erreka,JNO,1 RÉPLICA,FALSE,FALSE,"Santiago, Chile",FMS Chile,5,2021-2023,"Domingo, 02 de Octubre de 2022",02/10/2022
+Skiper,Lancer Lirical,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Lobo Estepario,Dante,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Jony Beltrán,Garza,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Aczino,Dominic,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Yoiker,Zticma,SIN RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Rapder,RC,1 RÉPLICA,FALSE,FALSE,"Ciudad de México, México",FMS Mexico,8,2021-2023,"Domingo, 09 de Octubre de 2022",09/10/2022
+Papo,Stuart,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+Klan,Larrix,1 RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+Mecha,Wolf,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+Tata,Katra,1 RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+MP,Naista,1 RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+Nacho,Zaina,SIN RÉPLICA,FALSE,FALSE,"Mar de Plata, Argentina",FMS Argentina,6,2021-2023,"Lunes, 10 de Octubre de 2022",10/10/2022
+Nasir Catriel,Efrum,EXHIBICIÓN,TRUE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Stuart,Mecha,1 RÉPLICA,FALSE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Klan,Nacho,SIN RÉPLICA,FALSE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Wolf,Tata,SIN RÉPLICA,FALSE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Papo,Zaina,SIN RÉPLICA,FALSE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Naista,Larrix,1 RÉPLICA,FALSE,FALSE,"Ituzaingó Buenos Aires, Argentina",FMS Argentina,7,2021-2023,"Sábado, 15 de Octubre de 2022",15/10/2022
+Jair Wong,Cafú,EXHIBICIÓN,TRUE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Kian,Stick,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Diego MC,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Nekroos,Strike,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Ghost,Black Code,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Toy Lokazo,Skill,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,8,2021-2023,"Domingo, 16 de Octubre de 2022",16/10/2022
+Erreka,Jokker,1 RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Nitro,Metalinguistica,SIN RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Teorema,Anubis,SIN RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Acertijo,Basek,1 RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Tom Crowley,JNO,SIN RÉPLICA,FALSE,FALSE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Nait,Rodamiento,EXHIBICIÓN,TRUE,TRUE,"Valparaíso, Chile",FMS Chile,6,2021-2023,"Domingo, 23 de Octubre de 2022",23/10/2022
+Valles T,Letra,1 RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+Gavyria,Elevn,1 RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+Big Killah,ÑKO,SIN RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+Carpediem,Airon,SIN RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+Chang,Lokillo,SIN RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+RBN,Filósofo,1 RÉPLICA,FALSE,FALSE,"Valle de Aburrá, Colombia",FMS Colombia,8,2021-2023,"Sábado, 05 de Noviembre de 2022",05/11/2022
+Mecha,Larrix,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Katra,Zaina,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Stuart,Klan,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+MP,Tata,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Mono Strong,Barto,EXHIBICIÓN,TRUE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Nacho,Papo,1 RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Naista,Wolf,SIN RÉPLICA,FALSE,FALSE,"Córdoba, Argentina",FMS Argentina,8,2021-2023,"Domingo, 06 de Noviembre de 2022",06/11/2022
+Skill,Diego MC,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Black Code,Vijay Kesh,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Kian,Ghost,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Strike,Jair Wong,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Jota,Toy Lokazo,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Stick,Nekroos,1 RÉPLICA,FALSE,FALSE,"Trujillo, Perú",FMS Peru,9,2021-2023,"Sábado, 12 de Noviembre de 2022",12/11/2022
+Satim,Fusok,EXHIBICIÓN,TRUE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Rodamiento,Acertijo,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Basek,Erreka,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Nitro,Jokker,SIN RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Metalinguistica,JNO,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Joqerr,Anubis,1 RÉPLICA,FALSE,FALSE,"Temuco, Chile",FMS Chile,7,2021-2023,"Domingo, 13 de Noviembre de 2022",13/11/2022
+Skone,Zasko,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Chuty,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Mnak,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Sawi Elekipo,Blon,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Tirpa,Hander,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Gazir,Sweet Pain,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,8,2021-2023,"Sábado, 19 de Noviembre de 2022",19/11/2022
+Chang,ÑKO,SIN RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+Valles T,Elevn,SIN RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+Letra,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+Filósofo,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+RBN,Carpediem,SIN RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+Airon,Lokillo,1 RÉPLICA,FALSE,FALSE,"Cúcuta, Colombia",FMS Colombia,9,2021-2023,"Domingo, 20 de Noviembre de 2022",20/11/2022
+Dante,Garza,SIN RÉPLICA,FALSE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+Skiper,Dominic,SIN RÉPLICA,FALSE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+Hander,Lancer Lirical,EXHIBICIÓN,TRUE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+Yoiker,Jony Beltrán,1 RÉPLICA,FALSE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+RC,Zticma,SIN RÉPLICA,FALSE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+Aczino,Rapder,SIN RÉPLICA,FALSE,FALSE,"Irapuato, Guanajuato, México",FMS Mexico,9,2021-2023,"Domingo, 27 de Noviembre de 2022",27/11/2022
+Teorema,Rodamiento,SIN RÉPLICA,FALSE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+Nitro,Erreka,SIN RÉPLICA,FALSE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+Basek,JNO,SIN RÉPLICA,FALSE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+Metalinguistica,Joqerr,1 RÉPLICA,FALSE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+Anubis,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+El Menor,Acertijo,EXHIBICIÓN,TRUE,FALSE,"La Serena, Chile",FMS Chile,8,2021-2023,"Domingo, 04 de Diciembre de 2022",04/12/2022
+Stuart,Tata,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Mecha,Zaina,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Papo,Klan,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Larrix,MP,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Wolf,Katra,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Naista,Nacho,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+G5,HDR,EXHIBICIÓN,TRUE,TRUE,"Buenos Aires, Argentina",FMS Argentina,9,2021-2023,"Jueves, 29 de Diciembre de 2022",29/12/2022
+Black Code,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Jota,Kian,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Ghost,Vijay Kesh,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Toy Lokazo,Nekroos,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Skill,Jair Wong,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Stick,Diego MC,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,10,2021-2023,"Sábado, 21 de Enero de 2023",21/01/2023
+Black Code,Skill,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Jota,Strike,SIN RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Kian,Diego MC,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Vijay Kesh,Nekroos,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Stick,Toy Lokazo,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Ghost,Jair Wong,1 RÉPLICA,FALSE,FALSE,"Lima, Perú",FMS Peru,11,2021-2023,"Domingo, 22 de Enero de 2023",22/01/2023
+Larrix,Katra,SIN RÉPLICA,FALSE,FALSE,"San Juan, Argentina",FMS Argentina,10,2021-2023,"Viernes, 27 de Enero de 2023",27/01/2023
+MP,Nacho,1 RÉPLICA,FALSE,FALSE,"San Juan, Argentina",FMS Argentina,10,2021-2023,"Viernes, 27 de Enero de 2023",27/01/2023
+Zaina,Tata,1 RÉPLICA,FALSE,FALSE,"San Juan, Argentina",FMS Argentina,10,2021-2023,"Viernes, 27 de Enero de 2023",27/01/2023
+Nekro,Wolf,EXHIBICIÓN,TRUE,FALSE,"San Juan, Argentina",FMS Argentina,10,2021-2023,"Viernes, 27 de Enero de 2023",27/01/2023
+Chang,CTZ,EXHIBICIÓN,TRUE,FALSE,"San Juan, Argentina",FMS Argentina,10,2021-2023,"Viernes, 27 de Enero de 2023",27/01/2023
+Tom Crowley,Teorema,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Metalinguistica,Anubis,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Rodamiento,Tom Crowley,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Basek,Nitro,1 RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Erreka,Acertijo,1 RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+JNO,Nasho,EXHIBICIÓN,TRUE,TRUE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Joqerr,Teorema,SIN RÉPLICA,FALSE,FALSE,"Concepción, Chile",FMS Chile,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Zasko,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Gazir,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Blon,Hander,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Chuty,Sweet Pain,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Mnak,Tirpa,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Skone,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Mowlihawk,Nocre,EXHIBICIÓN,TRUE,TRUE,"Barcelona, España",FMS Espana,9,2021-2023,"Sábado, 28 de Enero de 2023",28/01/2023
+Joqerr,Tom Crowley,1 RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Teorema,JNO,1 RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Metalinguistica,Erreka,SIN RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Jokker,Solisbé,EXHIBICIÓN,TRUE,TRUE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Rodamiento,MC Ma,EXHIBICIÓN,TRUE,TRUE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Nitro,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Rodamiento,Joqerr,1 RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Acertijo,Jokker,SIN RÉPLICA,FALSE,FALSE,"Rancagua, Chile",FMS Chile,10,2021-2023,"Sábado, 04 de Febrero de 2023",04/02/2023
+Elevn,Big Killah,1 RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Airon,RBN,SIN RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Carpediem,ÑKO,SIN RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Letra,Filósofo,SIN RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Chang,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Lokillo,Valles T,1 RÉPLICA,FALSE,FALSE,"Soacha, Colombia",FMS Colombia,10,2021-2023,"Domingo, 05 de Febrero de 2023",05/02/2023
+Sawi Elekipo,Sweet Pain,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Blon,Mr Ego,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Gazir,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Chuty,Hander,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Zasko,Mnak,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Skone,Tirpa,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,10,2021-2023,"Viernes, 10 de Febrero de 2023",10/02/2023
+Mr Ego,Hander,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Tirpa,Sara Socas,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Sweet Pain,Blon,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Mnak,Skone,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Gazir,Chuty,1 RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Zasko,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Madrid, España",FMS Espana,11,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Zticma,Dante,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+RC,Jony Beltrán,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Garza,Dominic,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Yoiker,Lancer Lirical,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Skiper,Aczino,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Lobo Estepario,Rapder,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,10,2021-2023,"Sábado, 11 de Febrero de 2023",11/02/2023
+Dominic,Yoiker,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Zticma,Lancer Lirical,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Dante,Jony Beltrán,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Skiper,RC,SIN RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Aczino,Lobo Estepario,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Garza,Rapder,1 RÉPLICA,FALSE,FALSE,"Monterrey, Nuevo León, México",FMS Mexico,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Letra,Airon,1 RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+RBN,ÑKO,1 RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Carpediem,Elevn,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Lokillo,Gavyria,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Chang,Big Killah,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Valles T,Filósofo,SIN RÉPLICA,FALSE,FALSE,"Cali, Colombia",FMS Colombia,11,2021-2023,"Domingo, 12 de Febrero de 2023",12/02/2023
+Naista,Tata,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Nacho,Katra,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Stuart,Zaina,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Mecha,MP,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Larrix,Papo,1 RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Sara Socas,G Sony,EXHIBICIÓN,TRUE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Klan,Wolf,SIN RÉPLICA,FALSE,FALSE,"Buenos Aires, Argentina",FMS Argentina,11,2021-2023,"Sábado, 04 de Marzo de 2023",04/03/2023
+Drose,Nitro,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Joqerr,Anubis,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Racso,Blade,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+99,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Rodamiento,El Menor,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Nitro,99,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Drose,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+El Menor,Blade,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Rodamiento,Anubis,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Pepe Grillo,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Racso,MC Ma,SIN RÉPLICA,FALSE,FALSE,"Chile, Chile",FMS Chile,1,2024-2025,"Sábado, 24 de Agosto de 2024",24/08/2024
+Acertijo,Blade,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Drose,99,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+El Menor,Joqerr,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Racso,Anubis,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Rodamiento,Acertijo,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Nitro,Blade,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+El Menor,Teorema,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Anubis,Drose,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Joqerr,99,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Rodamiento,Racso,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Nitro,Teorema,SIN RÉPLICA,FALSE,FALSE,"Constitución, Chile",FMS Chile,2,2024-2025,"Sábado, 07 de Septiembre de 2024",07/09/2024
+Puppy,RBN,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Airon,Visionario,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Filósofo,G Sony,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Chang,Fat Nigga,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Lokillo,Puppy,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Ruffaz,Coloso,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Chang,G Sony,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Marithea,Lokillo,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Filósofo,RBN,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Marithea,Coloso,SIN RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Airon,Fat Nigga,1 RÉPLICA,FALSE,FALSE,"Bogotá, Colombia",FMS Colombia,1,2024-2025,"Lunes, 09 de Septiembre de 2024",09/09/2024
+Mnak,Sweet Pain,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Chuty,Kmbra,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Alek,LE33,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Chuty,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Zasko,Michu,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+LE33,Kmbra,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Gazir,Alek,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Mnak,Kavron,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Sawi Elekipo,Michu,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Zasko,Fabiuki,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Gazir,Sweet Pain,SIN RÉPLICA,FALSE,FALSE,"Bilbao, España",FMS Espana,1,2024-2025,"Sábado, 14 de Septiembre de 2024",14/09/2024
+Rapder,Cacha,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+RC,Danger,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Skone,Azuky,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Valles T,Dominic,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Lobo Estepario,Maquiavelico,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Lobo Estepario,Dominic,1 RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Maquiavelico,Jack Adrenalina,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Jack Adrenalina,Danger,1 RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Azuky,Rapder,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Skone,RC,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Valles T,Cacha,SIN RÉPLICA,FALSE,FALSE,"Estado de México, México",FMS Mexico,1,2024-2025,"Domingo, 22 de Septiembre de 2024",22/09/2024
+Replik,Kodigo,1 RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+SNK,Zaki,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Letra,Éxodo Lirical,1 RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Reverse,Metalinguistica,1 RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Jony Beltrán,Eros,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Replik,Ghetto,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Kodigo,Zaki,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Éxodo Lirical,RVS,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Metalinguistica,SNK,1 RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Reverse,Letra,SIN RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+Ghetto,Jony Beltrán,1 RÉPLICA,FALSE,FALSE,"San José, Costa Rica",FMS Caribe,1,2024-2025,"Domingo, 29 de Septiembre de 2024",29/09/2024
+G Sony,RBN,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Marithea,Puppy,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Chang,Airon,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Lokillo,Coloso,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Fat Nigga,RBN,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Maylan,Filósofo,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Marithea,Airon,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Puppy,Tuni,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+G Sony,Fat Nigga,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Chang,Coloso,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Lokillo,Filósofo,SIN RÉPLICA,FALSE,FALSE,"Pereira, Colombia",FMS Colombia,2,2024-2025,"Domingo, 06 de Octubre de 2024",06/10/2024
+Kmbra,Michu,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Sweet Pain,LE33,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Sawi Elekipo,Segrelles,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Mnak,Alek,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Gazir,Kmbra,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Sweet Pain,Michu,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Chuty,Zasko,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Zasko,Sawi Elekipo,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Mnak,LE33,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Gazir,Navas,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Chuty,Alek,SIN RÉPLICA,FALSE,FALSE,"Valencia, España",FMS Espana,2,2024-2025,"Viernes, 11 de Octubre de 2024",11/10/2024
+Vijay Kesh,Arkano,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Xplain,Letras,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Jota,KG,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+MP,Skill,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Black Code,Xplain,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Vijay Kesh,Letras,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Nekroos,MP,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+KG,Arkano,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Skill,Nekroos,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Black Code,Delenyer,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024
+Jota,Klibre,SIN RÉPLICA,FALSE,FALSE,"Arequipa, Perú",FMS Peru,1,2024-2025,"Lunes, 14 de Octubre de 2024",14/10/2024

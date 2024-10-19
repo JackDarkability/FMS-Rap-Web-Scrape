@@ -4,98 +4,161 @@ from selenium import webdriver
 import pandas as pd
 
 
-options = webdriver.ChromeOptions()
-options.add_argument("headless")
-driver = webdriver.Chrome(options=options)
+def get_link(driver, base_url, country, round, year):
+    """Create full URL including relevant details and return beautifulsoup object"""
 
-# Example URL: https://mundofreestyle.com/resultados-y-tabla-de-la-jornada-2-de-fms-espana-2020/
-# fms international's links are like https://mundofreestyle.com/resultados-y-clasificados-de-la-jornada-2-de-fms-internacional-2022/
-
-# New URL. Much better and has everything: https://freestyleros.com/fms-peru/resultados/fms-peru-2024-2025
-BASE_URL = "https://mundofreestyle.com/resultados-y-tabla-de-la-jornada-"
-COUNTRIES = ["argentina", "chile", "espana", "mexico", "peru", "caribe", "colombia"]
-# There is also an FMS Internacional but the links are different so I will leave it out for now
-YEARS = ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
-
-
-def get_link(base_url, country, round, year):
-    if country == "internacional":
-        pass
-        # TODO implement this
-
-    else:  # a country's league
-        full_url = base_url + round + "-de-fms-" + country + "-" + year + "/"
-        driver.get(full_url)
-        time.sleep(2)
-        return BeautifulSoup(driver.page_source, "html.parser")
+    # a country's league
+    full_url = (
+        base_url
+        + country
+        + "/resultados/fms-"
+        + country
+        + "-"
+        + year
+        + "/fms-"
+        + country
+        + "-"
+        + year
+        + "-jornada-"
+        + round
+    )
+    driver.get(full_url)
+    time.sleep(2)
+    print(full_url)
+    return BeautifulSoup(driver.page_source, "html.parser")
 
 
-def get_data(soup):
-    # Get battle results from page
-    date_of_round = soup.find("time", class_="entry-date updated td-module-date")[
-        "datetime"
-    ]
+def get_data(soup, country, year, jornada, results_of_battles):
+    """Get battle results from page"""
 
-    results_list = soup.find("ul", class_="wp-block-list")
-    results_bullet_points = results_list.find_all("li")
+    if soup.find("span", class_="text-dark fw-bold"):
+        # Not happened yet, so just end function
+        return results_of_battles
+
+    date_of_round = soup.find("span", id="fecha_completa").text.strip()
+    date_of_round, location = date_of_round.split(
+        "  "
+    )  # 2 spaces between date and location
+    print(date_of_round)
+
+    table_of_results = soup.find("table", id="tabla_participantes")
+
+    results_bullet_points = (table_of_results.find("tbody")).find_all("tr")
 
     for result in results_bullet_points:
         # Extract the data
-        # The data is in the form of "A ganó a B" with possibly "tras réplica" at the end
 
-        exhibition = False
-        result_text = result.text.strip()
-        if "tras réplica" in result_text:
-            # A won after a tiebreaker
-            result_text = result_text.replace(" tras réplica", "")
-            replica = True
+        names = result.find_all("span", class_="d-block fw-bold")
+        points = result.find_all("span", class_="fs-1")
+        replica_status = result.find("span", class_=["badge", "fs-9"])
+
+        if result.find(
+            "span", class_="text-info"
+        ):  # This will be there for exhibition battles
+            exhibition = True
+        else:
+            exhibition = False
+
+        if points == []:
+            points = [0, 0]
+            # This was an exhibition battle with no scoring
+
+        # Get details
+        rapper_1 = names[0].text.strip()
+        rapper_2 = names[1].text.strip()
+        points_1 = points[0].text.strip()
+        points_2 = points[1].text.strip()
+        replica_status = replica_status.text.strip()
+
+        if points_1 > points_2:
+            winner = rapper_1
+            loser = rapper_2
+            draw = False
+
+        elif points_2 > points_1:
+            winner = rapper_2
+            loser = rapper_1
+            draw = False
 
         else:
-            # A won directly
-            result_text = result_text.replace(" sin réplica", "")
-            replica = False
-
-        if "le ganó a" in result_text:
-            # Sometimes text has "le ganó a" instead of "ganó a"
-            result_text = result_text.replace(" le ganó a ", " ganó a ")
-
-        if " (Batalla de exhibición)" in result_text:
-            exhibition = True
-            result_text = result_text.replace(" (Batalla de exhibición)", "")
-
-        winner, loser = result_text.split(" ganó a ")
+            winner = rapper_1
+            loser = rapper_2
+            draw = True
 
         # Collate details
         battle_details = {
-            "winner": winner.strip(),
-            "loser": loser.strip(),
-            "replica": str(replica),
+            "winner": winner,
+            "loser": loser,
+            "replica": replica_status,
             "exhibition": str(exhibition),
-            "date": date_of_round,
+            "draw": str(draw),
+            "location": location.strip(),
+            "league": "FMS " + country.capitalize(),
+            "round": str(jornada),
+            "year": year.strip(),
+            "date": date_of_round.strip(),
         }
 
         results_of_battles.append(battle_details)
 
-
-results_of_battles = []
-
-for country in COUNTRIES:
-    for year in YEARS:
-        for jornada in range(1, 15):
-            print("Testing for", country, year, jornada)
-            time.sleep(2)
-            soup = get_link(BASE_URL, country, str(jornada), year)
-            if soup.find("h1", class_="entry-title"):  # Not 404
-                get_data(soup)
-            
-            else:
-                # Something is wrong (like too many rounds)
-                break
-            print(f"Got data for {country} {year} round {jornada}")
-            print(results_of_battles[-1])
+    return results_of_battles
 
 
-# Convert all battles to a DataFrame
-all_battles_df = pd.DataFrame(results_of_battles)
+def main():
 
-all_battles_df.to_csv("rapBattles.csv", index=False)
+    options = webdriver.ChromeOptions()
+    options.add_argument("headless")
+    driver = webdriver.Chrome(options=options)
+
+    # Example URL: https://freestyleros.com/fms-peru/resultados/fms-peru-2020-2021/fms-peru-2020-2021-jornada-1
+    BASE_URL = "https://freestyleros.com/fms-"
+
+    COUNTRIES = [
+        "argentina", 
+        "chile", 
+        "espana", 
+        "mexico", 
+        "peru", 
+        "caribe", 
+        "colombia"
+    ]
+
+    YEARS = [
+        "2017-2018",
+        "2018-2019",
+        "2019-2020",
+        "2020-2021",
+        "2021-2023", # Not a mistake, was over 2 years due to COVID
+        "2024-2025",
+    ]
+
+
+    results_of_battles = []
+
+    for country in COUNTRIES:
+        for year in YEARS:
+            for jornada in range(1, 15):
+                print("Testing for", country, year, jornada)
+                time.sleep(2)
+                soup = get_link(driver, BASE_URL, country, str(jornada), year)
+                if soup.find("table", id="tabla_participantes"):  # Not 404
+                    results_of_battles = get_data(
+                        soup, country, year, jornada, results_of_battles
+                    )
+
+                else:
+                    print("No data for", country, year, jornada)
+                    # Something is wrong (like too many rounds)
+                    break
+
+                print(f"Got data for {country} {year} round {jornada}")
+                print(results_of_battles[-1])
+
+    # Convert all battles to a DataFrame
+    all_battles_df = pd.DataFrame(results_of_battles)
+
+    all_battles_df.to_csv("rap_battles2.csv", encoding="iso-8859-1", index=False)
+
+
+if __name__ == "__main__":
+    main()
